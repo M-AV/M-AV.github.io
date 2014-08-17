@@ -61,3 +61,16 @@ public class PasswordDontMatch : TestBase {
 ```
 
 Cras volutpat mauris nec tincidunt cursus. Maecenas vestibulum malesuada nisl, in vulputate nunc congue vel. Vivamus molestie, lorem sit amet auctor posuere, sapien dui ultrices leo, malesuada consectetur enim enim non orci. Praesent mattis sollicitudin massa mollis tincidunt. Sed lectus tortor, aliquet in libero ut, fermentum posuere tellus. Quisque ultrices mi vitae adipiscing lacinia. Quisque tempor turpis laoreet justo pretium, eget sodales eros porta. Cras eu tortor quis lorem porttitor tincidunt. Duis ac sagittis risus. Suspendisse vitae augue arcu.
+
+
+# Programming Languages
+
+    1. ~ C# in Depth - Jon Skeet
+    2. CLR via. C# - Jeffrey Richter
+
+# General programming:
+    1. The Mythical Man-month - Frederick P. Brooks, Jr.
+
+# Other things:
+    1. ✓ The Tipping Point - Malcolm Gladwell
+    2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
