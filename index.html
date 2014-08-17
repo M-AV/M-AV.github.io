@@ -8,11 +8,12 @@ title: MAV playing around
   {% for post in site.posts limit:3 %}
 	<li>
   		<article>
-  			<a href="{{ site.url }}{{ post.url }}">{{ post.title }} 
-  				<span class="entry-date">
-  					<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
-  				</span>
- 			</a>
+  			<h2>
+          <a href="{{ site.url }}{{ post.url }}">{{ post.title }}	</a>
+        </h2>
+        <span class="entry-date">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+        </span>
       {{ post.excerpt }}
 		</article>
 	</li>
