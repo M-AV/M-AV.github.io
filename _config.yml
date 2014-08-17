@@ -2,7 +2,7 @@ name: MAV
 description: Still testing
 title: Is this a blog?
 
-url: file:///E:/Projects/GitHub_Website/M-AV.github.io/_site 
+url: http://m-av.github.io
     #file:///E:/Projects/GitHub_Website/M-AV.github.io/_site 
     #http://m-av.github.io
 markdown: redcarpet
