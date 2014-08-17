@@ -1,0 +1,16 @@
+name: MAV
+description: Still testing
+url: file:///E:/Projects/GitHub_Website/M-AV.github.io/_site 
+    #file:///E:/Projects/GitHub_Website/M-AV.github.io/_site 
+    #http://m-av.github.io
+markdown: redcarpet
+highlighter: pygments
+safe: true
+permalink: pretty
+author: 'Mikkel Vej'
+email: blog@m-a-v.dk
+
+disqus:
+    shortname: 'M-AV'
+
+excerpt_separator: "\n\n"

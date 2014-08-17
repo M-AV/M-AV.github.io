@@ -1,1 +1,21 @@
-Don't tell me what to write
+---
+layout: default
+title: MAV playing around
+---
+
+<section id="main">
+<ul>
+  {% for post in site.posts limit:3 %}
+	<li>
+  		<article>
+  			<a href="{{ site.url }}{{ post.url }}">{{ post.title }} 
+  				<span class="entry-date">
+  					<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+  				</span>
+ 			</a>
+      {{ post.excerpt }}
+		</article>
+	</li>
+  {% endfor %}
+</ul>
+</section>
