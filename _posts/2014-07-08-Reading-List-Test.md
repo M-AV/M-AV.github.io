@@ -24,7 +24,7 @@ Qoute:
 
 Sed convallis, est a viverra fermentum, sem dolor convallis odio, vel luctus lacus neque sed felis. Aenean id tempor justo. Aliquam mollis ante ut placerat auctor. Aliquam vestibulum erat enim, vitae sodales elit dictum vitae. Vestibulum adipiscing nibh lobortis, dapibus sapien eget, consectetur nulla. Vestibulum at adipiscing nisi. Curabitur consequat enim eros, id mollis mauris euismod sit amet. Sed felis justo, ornare nec risus et, laoreet pharetra augue. Praesent adipiscing neque ac sapien vulputate, ac sollicitudin eros vulputate. Praesent eget tellus non lectus venenatis ultricies. Curabitur id viverra enim, id lobortis nulla. Phasellus pretium nisl vel sapien imperdiet sollicitudin. Donec vel nisl felis.
 
-Snatched the code samples here: http://www.wekeroad.com/2014/03/06/pragmatic-bdd/
+Snatched the code samples [here](http://www.wekeroad.com/2014/03/06/pragmatic-bdd/).
 
 Only used to have a code sample I can use when playing around with my code-blocks. 
 
