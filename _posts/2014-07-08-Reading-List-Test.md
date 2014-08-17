@@ -17,6 +17,8 @@ Qoute:
 
 -
 
+<!--more-->
+
 > Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. 
 
 > - - ***How Beer Saved the World***

@@ -13,4 +13,4 @@ email: blog@m-a-v.dk
 disqus:
     shortname: 'M-AV'
 
-excerpt_separator: "\n\n"
+excerpt_separator: "<!--more-->"
