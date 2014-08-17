@@ -19,7 +19,7 @@ pre {
   font-size: 12px;
   line-height: 18px;
   white-space: pre;
-  overflow-x: scroll;
+  overflow-x: auto;
   width: inherit;
 }
 
