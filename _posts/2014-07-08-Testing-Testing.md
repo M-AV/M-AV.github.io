@@ -5,6 +5,8 @@ date: 2014-04-08
 comments: false
 ---
 
+
+
 > Beer and science go hand in hand
 
 # Programming Languages

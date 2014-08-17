@@ -76,14 +76,34 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 /* Logo H1 */
 header h1 {
-	height: 70px;
-	width: 160px;
-    float: left;
+	height: 50px;
+	width: 100%;
     display: block;
-    background: url(../imgs/demo.gif) 0 0 no-repeat;
-    text-indent: -9999px;
+    text-align: center;
+    float: left;
 }
-    /* Nav */
+
+section .post_title {
+   text-align: center;
+   float:left;
+   width: 100%;
+}
+
+section .post_date {
+    float: right;
+    display: block;
+}
+
+section .post_title_wrapper {
+    float: left;
+    width: 100%;
+}
+
+.content_wrap {
+    float: left;
+    width: 100%;
+}
+
 header nav {
     float: right;
     margin-top: 40px;
