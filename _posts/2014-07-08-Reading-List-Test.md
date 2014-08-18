@@ -56,7 +56,7 @@ public class PasswordDontMatch : TestBase {
     var app = new Application("rob@tekpub.com", "password", "password");
     new Registrator().ApplyForMembership(app);
 
-    _result = new Authenticator().AuthenticateUser(new Credentials { Email = "rob@tekpub.com", Password = "fixlesl" });
+    _result = new Authenticator().AuthenticateUser(new Credentials {  });
 
   }
 }

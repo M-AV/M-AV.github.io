@@ -10,10 +10,10 @@ html {
     height: 100%;
 }
 body { 
-    background:#ffffff; 
+    background:#FAFAFA; 
     font-size: 13px; 
     color: #666666; 
-    font-family: Arial, helvetica, sans-serif;
+    font-family: Verdana, Arial, helvetica, sans-serif;
     height: 100%;
 }
 
@@ -37,7 +37,7 @@ img {
 }
 p { 
     margin: 0 0 10px; 
-    line-height: 1.4em; 
+    line-height: 1.5em; 
     font-size: 1.2em;
 }
 img { 
