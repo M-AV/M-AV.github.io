@@ -111,12 +111,12 @@ section .post_title_wrapper {
     margin-bottom: 10px;
 }
 
-.content_wrap {
+.post_wrap {
     float: left;
     width: 100%;
 }
 
-.content_wrap img{
+.post_wrap img{
     max-width: 100%;
     text-align: center;
 }

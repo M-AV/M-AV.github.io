@@ -14,7 +14,9 @@ title: MAV playing around
         <span class="entry-date">
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
         </span>
-      {{ post.excerpt }}
+        <div class='post_wrap'>
+          {{ post.excerpt }}
+        </div>
 		</article>
 
 	</li>
