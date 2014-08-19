@@ -2,14 +2,14 @@
 layout: post
 title: Reading List 
 date: 2014-04-08
-comments: true
+comments: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum, arcu vel ornare tincidunt, nibh diam volutpat libero, non feugiat diam lacus et lacus. Nunc feugiat ipsum id mi consequat auctor. Sed volutpat vel tortor et ultrices. Vestibulum vehicula ornare condimentum. Phasellus a nisi vel felis suscipit mattis id sit amet sem. Quisque sodales magna nibh, non sollicitudin sapien convallis eu. Etiam tincidunt ut eros bibendum lobortis. Fusce facilisis hendrerit turpis, eget suscipit augue tempus sed. Nulla tristique porta ligula, non blandit lectus.
 
 Suspendisse scelerisque vehicula pretium. Ut sed aliquam tellus, quis fringilla lacus. Pellentesque nisl odio, dapibus ac venenatis blandit, congue molestie mauris. Cras eu convallis diam. Proin luctus tincidunt massa. Morbi luctus odio ut lorem fringilla pharetra. Maecenas sollicitudin fermentum adipiscing. Nam et erat eu orci volutpat aliquam. Proin pharetra elit est, a luctus mi sodales ut. Sed laoreet at metus et fermentum. Quisque bibendum, risus id fringilla luctus, ipsum massa dignissim est, nec imperdiet nisi felis non diam.
 
-Qoute:
+Quote:
 
 > Beer and science go hand in hand
 

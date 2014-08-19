@@ -3,7 +3,7 @@ description: Still testing
 title: Is this a blog?
 
 url: http://blog.m-a-v.dk
-    #file:///E:/Projects/GitHub_Website/M-AV.github.io/_site 
+    #file:///E:/Projects/GitHub_Website/M-AV.github.io/_site
     #http://blog.m-a-v.dk
 markdown: redcarpet
 highlighter: pygments
