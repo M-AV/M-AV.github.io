@@ -1,0 +1,43 @@
+____________________________________________________________________________________________________________________
+##BOOKS:
+
+#Testing & Patterns:
+	1. → Dependency Injection in .NET - Mark Seeman 
+	2. The Art of Unit Testing (With examples in .NET) - Roy Osherove
+	3. xUnit Test Patterns (Refactoring Test Code) - Gerard Meszaros
+
+
+#Programming Languages:
+	1. → C# in Depth - Jon Skeet
+	2. CLR via. C# - Jeffrey Richter
+
+	?. Effective Java - Joshua Bloch
+	?. Pro Python - Marty Alchin
+	?. A Programmer's Guide to C# 5.0
+	?. F# for C# Developers
+
+#General programming:
+	1. The Mythical Man-month - Frederick P. Brooks, Jr.
+
+	?. Microsoft Application Architecture Guide, 2nd Edition - http://msdn.microsoft.com/en-us/library/ff650706.aspx or pdf
+	?. Working Effectively with Legacy Code - Michael Feathers
+	?. AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis - William J. Brown et al. 
+	?. Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma et al.
+
+#General reading:
+	1. ✓ The Tipping Point - Malcolm Gladwell
+	2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
+	3. How to Win Friends and Influence People - Dale Carnegie
+
+
+____________________________________________________________________________________________________________________
+##ARTICLES:
+
+    - A Measurement Study of Google Play
+
+____________________________________________________________________________________________________________________
+
+
+##Topics:
+    - CQRS (Command Query Responsibility Segregation)
+    - AOP (Aspect Oriented Programming) and Cross-Cutting Concerns 

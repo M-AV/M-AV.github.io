@@ -1,0 +1,9 @@
+---
+layout: default
+title: Reading list
+---
+
+<section id="main">
+{% capture reading %}{% include reading-list.md %}{% endcapture %}
+{{ reading | markdownify }}
+</section>
