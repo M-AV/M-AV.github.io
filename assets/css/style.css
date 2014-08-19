@@ -116,6 +116,11 @@ section .post_title_wrapper {
     width: 100%;
 }
 
+.content_wrap img{
+    max-width: 100%;
+    text-align: center;
+}
+
 header nav {
     float: right;
     margin-top: 40px;

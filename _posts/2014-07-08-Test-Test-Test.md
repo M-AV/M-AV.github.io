@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This is a test post
-date: 2014-04-08
+date: 2014-07-08
 comments: true
 ---
 

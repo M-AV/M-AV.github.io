@@ -5,18 +5,71 @@ date: 2014-04-08
 comments: false
 ---
 
+# Heading
 
+## Heading
+
+### Heading
+
+#### Heading
+
+##### Heading
+
+###### Heading
 
 > Beer and science go hand in hand
 
-# Programming Languages
+-
+
+> Beer and science go hand in hand
+
+> - - ***How Beer Saved the World***
+
+
+-
+## Programming Languages
 
     1. ~ C# in Depth - Jon Skeet
+      1. Sub item
     2. CLR via. C# - Jeffrey Richter
 
-# General programming:
+## General programming:
 	1. The Mythical Man-month - Frederick P. Brooks, Jr.
 
-# Other things:
-	1. ✓ The Tipping Point - Malcolm Gladwell
-	2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
+## Other things:
+	?. ✓ The Tipping Point - Malcolm Gladwell
+	?. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
+
+{% highlight C# linenos %}
+[Trait("Authentication", "Password doesn't match")]
+public class PasswordDontMatch : TestBase {
+
+  AuthenticationResult _result;
+  public PasswordDontMatch() {
+    var app = new Application("rob@tekpub.com", "password", "password");
+    new Registrator().ApplyForMembership(app);
+
+    _result = new Authenticator().AuthenticateUser(new Credentials { Email = "rob@tekpub.com", Password = "fixlesl" });
+
+  }
+}
+{% endhighlight %}
+
+Images..:
+![Image of doom]({{ site.url }}/assets/imgs/dots.png)
+
+![Image of doom]({{ site.url }}/assets/imgs/rss.ico "RSS ICON")
+
+[Other post]({{ site.url }}{% post_url 2014-07-08-Test-Test-Test %})
+
+
+ **EM PHA _SIS_**.
+
+Strikethrough: <del>Scratch this</del>?
+
+
+| Ta        |     bl       |  es |
+| ------------- |:-------------:| -----:|
+| ffdsfsd  | fdasfadsfadsfadsd | dsfgdsf |
+| adsfadsfadsffadsfadsfdsa  | adsfadsfads      |   adsfadsdfadsfdsafadsfads |
+| asdfadsfsfad | asdffadsfdasfdsafadsfdsaads   |    asdfadsf |
