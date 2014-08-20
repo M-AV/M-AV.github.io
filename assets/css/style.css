@@ -141,6 +141,9 @@ header nav li {
 /************
  Post styling
 ***********/
+.post_title {
+    text-decoration: none;
+}
 section .post_title {
    font-family: 'MerryWeather', Serif; 
    text-align: left;
@@ -148,9 +151,11 @@ section .post_title {
    width: 100%;
    border-bottom: 1px solid silver;
    font-weight:bold;
-   padding-bottom: 5px;
+   padding-bottom: 3px;
    font-size: 50px;
    font-weight: bold;
+   color: black;
+   margin-bottom: 2px;
 }
 
 section .post_date {
@@ -162,6 +167,12 @@ section .post_title_wrapper {
     float: left;
     width: 100%;
     margin-bottom: 10px;
+}
+
+.post_excerpt {
+    margin-bottom: 50px;
+    float: left;
+    width: 100%;
 }
 
 .post_wrap {

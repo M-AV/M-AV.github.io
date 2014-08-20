@@ -47,7 +47,7 @@ comments: false
     1. ✓ The Tipping Point - Malcolm Gladwell
     2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
 
-<!--more-->
+<!--mo re-->
 
 {% highlight C# linenos %}
 [Trait("Authentication", "Password doesn't match")]

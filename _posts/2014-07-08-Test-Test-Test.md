@@ -17,7 +17,7 @@ Quote:
 
 -
 
-<!--more-->
+<!--mo re-->
 
 > Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. Beer and science go hand in hand. 
 <br>
@@ -73,15 +73,15 @@ Cras volutpat mauris nec tincidunt cursus. Maecenas vestibulum malesuada nisl, i
 
 # Programming Languages
 
-1. ~ C# in Depth - Jon Skeet
-2. CLR via. C# - Jeffrey Richter
+    1. ~ C# in Depth - Jon Skeet
+    2. CLR via. C# - Jeffrey Richter
 
 # General programming:
 
-1. The Mythical Man-month - Frederick P. Brooks, Jr.
+    1. The Mythical Man-month - Frederick P. Brooks, Jr.
 
 # Other things:
 
 
-1. ✓ The Tipping Point - Malcolm Gladwell
-2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
+    1. ✓ The Tipping Point - Malcolm Gladwell
+    2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
