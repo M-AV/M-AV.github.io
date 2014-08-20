@@ -21,31 +21,31 @@ comments: false
 
 -
 
-> Beer and science go hand in hand
-
-> - - ***How Beer Saved the World***
+> Beer and science go hand in hand <br>
+> <small> - ***How Beer Saved the World*** </small>
 
 -
 
 > Beer and science go hand in hand
 >> Beer and science go hand in hand
->>> Beer and science go hand in hand
-
->>> - - ***How Beer Saved the World***
+>>> Beer and science go hand in hand <br>
+>>> <small> - ***How Beer Saved the World*** </small>
 
 -
 ## Programming Languages
 
-    1. ~ C# in Depth - Jon Skeet
-      1. Sub item
-    2. CLR via. C# - Jeffrey Richter
+1. ~ C# in Depth - Jon Skeet
+  1. Sub item
+2. CLR via. C# - Jeffrey Richter
 
 ## General programming:
-	1. The Mythical Man-month - Frederick P. Brooks, Jr.
+
+1. The Mythical Man-month - Frederick P. Brooks, Jr.
 
 ## Other things:
-	?. ✓ The Tipping Point - Malcolm Gladwell
-	?. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
+
+1. ✓ The Tipping Point - Malcolm Gladwell
+2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
 
 {% highlight C# linenos %}
 [Trait("Authentication", "Password doesn't match")]
@@ -66,9 +66,16 @@ Line `1` is not so important.. But the class needs to have the `public` modifier
 
 fdsafsad ads f: 
 
-    // Comment 1
-    int i = 0; dfg fdsg fds gfdsg sfdg 
+```csharp
+// Comment 1
+int i = 0; dfg fdsg fds gfdsg sfdg 
+```
 
+
+{% highlight C# %}
+// Comment 1
+int i = 0; dfg fdsg fds gfdsg sfdg 
+{% endhighlight %}
 
 fdsa fas fads 
 
