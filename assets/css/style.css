@@ -18,13 +18,12 @@ body {
 }
 
 ol, ul { 
+    list-style: none;
     margin: 0;
-    margin-left: 5%;
 }
 ul li { 
     margin: 0; 
     padding: 0;
-    margin-left: 5%;
 }
 h1 { 
     margin-bottom: 10px; 

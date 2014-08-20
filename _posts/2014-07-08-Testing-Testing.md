@@ -40,12 +40,14 @@ comments: false
 
 ## General programming:
 
-1. The Mythical Man-month - Frederick P. Brooks, Jr.
+    1. The Mythical Man-month - Frederick P. Brooks, Jr.
 
 ## Other things:
 
-1. ✓ The Tipping Point - Malcolm Gladwell
-2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
+    1. ✓ The Tipping Point - Malcolm Gladwell
+    2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
+
+<!--more-->
 
 {% highlight C# linenos %}
 [Trait("Authentication", "Password doesn't match")]

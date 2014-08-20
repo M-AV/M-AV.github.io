@@ -30,6 +30,11 @@ pre code {
   padding: 0;
   color: inherit;
   background-color: transparent;
+}
+pre code:not(.language-text) {
+  padding: 0;
+  color: inherit;
+  background-color: transparent;
   border-left: 2px solid silver;
   border-right: 2px solid silver;
   padding-left: 3px;
