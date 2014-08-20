@@ -88,39 +88,6 @@ h1 {
     font-family: 'MerryWeather', Serif; 
 }
 
-section .post_title {
-   font-family: 'MerryWeather', Serif; 
-   text-align: left;
-   float:left;
-   width: 100%;
-   border-bottom: 1px solid silver;
-   font-weight:bold;
-   padding-bottom: 5px;
-   font-size: 50px;
-   font-weight: bold;
-}
-
-section .post_date {
-    float: right;
-    padding-bottom: 8px
-}
-
-section .post_title_wrapper {
-    float: left;
-    width: 100%;
-    margin-bottom: 10px;
-}
-
-.post_wrap {
-    float: left;
-    width: 100%;
-}
-
-.post_wrap img{
-    max-width: 100%;
-    text-align: center;
-}
-
 header nav {
     float: right;
     margin-top: 40px;
@@ -171,6 +138,103 @@ header nav li {
     }           
 }
 
+/************
+ Post styling
+***********/
+section .post_title {
+   font-family: 'MerryWeather', Serif; 
+   text-align: left;
+   float:left;
+   width: 100%;
+   border-bottom: 1px solid silver;
+   font-weight:bold;
+   padding-bottom: 5px;
+   font-size: 50px;
+   font-weight: bold;
+}
+
+section .post_date {
+    float: right;
+    padding-bottom: 8px
+}
+
+section .post_title_wrapper {
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.post_wrap {
+    float: left;
+    width: 100%;
+}
+
+.post_wrap img{
+    max-width: 100%;
+    text-align: center;
+}
+
+/*************
+ Tables - posts only? 
+**************/
+table { 
+  width: 100%; 
+  max-width: 100%;
+  border-collapse: collapse; 
+  overflow: auto;
+  table-layout: fixed;
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td {
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+
+
+/* Can't have a table above 450 px!*/
+
+@media only screen and (max-width: 450px) {
+    
+    .cf:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+    * html .cf { zoom: 1; }
+    *:first-child+html .cf { zoom: 1; }
+    
+    table { width: 100%; border-collapse: collapse; border-spacing: 0; }
+ 
+    th,
+    td { margin: 0; vertical-align: top; }
+    th { text-align: left; }
+    
+    table { display: block; position: relative; width: 100%; }
+    thead { display: block; float: left; }
+    tbody { display: block; width: auto; position: relative; overflow-x: auto; white-space: nowrap; }
+    thead tr { display: block; }
+    th { display: block; text-align: right; }
+    tbody tr { display: inline-block; vertical-align: top; }
+    td { display: block; min-height: 1.25em; text-align: left; }
+ 
+ 
+    /* sort out borders */
+ 
+    th { border-bottom: 0; border-left: 0; }
+    td { border-left: 0; border-right: 0; border-bottom: 0; }
+    tbody tr { border-left: 1px solid #babcbf; }
+    th:last-child,
+    td:last-child { border-bottom: 1px solid #babcbf; }
+}
 /***************
   Footer
 ***************/
@@ -192,7 +256,7 @@ footer, .push {
 
 footer img {
     max-width: 40px;
-    width: 10%;
+    min-width: 40px;
     display:inline-block;
     margin: 0;
 }

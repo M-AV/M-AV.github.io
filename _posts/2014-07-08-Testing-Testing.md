@@ -25,6 +25,13 @@ comments: false
 
 > - - ***How Beer Saved the World***
 
+-
+
+> Beer and science go hand in hand
+>> Beer and science go hand in hand
+>>> Beer and science go hand in hand
+
+>>> - - ***How Beer Saved the World***
 
 -
 ## Programming Languages
@@ -55,10 +62,22 @@ public class PasswordDontMatch : TestBase {
 }
 {% endhighlight %}
 
+Line `1` is not so important.. But the class needs to have the `public` modifier.
+
+fdsafsad ads f: 
+
+    // Comment 1
+    int i = 0; dfg fdsg fds gfdsg sfdg 
+
+
+fdsa fas fads 
+
 Images..:
 ![Image of doom]({{ site.url }}/assets/imgs/dots.png)
 
 ![Image of doom]({{ site.url }}/assets/imgs/rss.ico "RSS ICON")
+
+![Minion](http://octodex.github.com/images/minion.png "Minion")
 
 [Other post]({{ site.url }}{% post_url 2014-07-08-Test-Test-Test %})
 
@@ -67,9 +86,8 @@ Images..:
 
 Strikethrough: <del>Scratch this</del>?
 
-
 | Ta        |     bl       |  es |
 | ------------- |:-------------:| -----:|
-| ffdsfsd  | fdasfadsfadsfadsd | dsfgdsf |
-| adsfadsfadsffadsfadsfdsa  | adsfadsfads      |   adsfadsdfadsfdsafadsfads |
-| asdfadsfsfad | asdffadsfdasfdsafadsfdsaads   |    asdfadsf |
+| -----1,1----  | -----1,2---- | -----1,3---- |
+| -----2,1----  | -----2,2----      |   -----2,3---- |
+| -----3,1----  | -----3,2-jkljkljklfadsfsafadsfdsafdsafadsfdsajkljkljkljkljljklj---   |  -----3,3---- |

@@ -18,3 +18,5 @@ disqus:
     shortname: 'M-AV'
 
 excerpt_separator: "<!--more-->"
+
+min_width: '300px'
