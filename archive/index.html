@@ -5,18 +5,13 @@ title: MAV playing around
 
 <section id="main">
 <ul>
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts %}
 	<li>
-  		<article>
+  	<article>
       <div class='post_title_wrapper'> 
         <a class='post_title' href="{{ site.url }}{{ post.url }}"> {{ post.title }} </a>
         <strong class='post_date'> {{ post.date | date: "%B %d, %Y" }} </strong>
       </div>
-        <div class='post_excerpt'>
-          <div class='post_wrap'>
-            {{ post.excerpt }}
-          </div>
-        </div>
 		</article>
 
 	</li>
@@ -24,7 +19,4 @@ title: MAV playing around
 </ul>
 
 
-<div id='front_post_nav'>
-  <a href="{{ site.url }}/archive"> More posts </a>
-</div>
 </section>

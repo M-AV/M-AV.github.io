@@ -17,10 +17,10 @@ ________________________________________________________________________________
 	?. F# for C# Developers
 
 #General programming:
-	1. The Mythical Man-month - Frederick P. Brooks, Jr.
+	1. Working Effectively with Legacy Code - Michael Feathers
+	2. The Mythical Man-month - Frederick P. Brooks, Jr.
 
 	?. Microsoft Application Architecture Guide, 2nd Edition - http://msdn.microsoft.com/en-us/library/ff650706.aspx or pdf
-	?. Working Effectively with Legacy Code - Michael Feathers
 	?. AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis - William J. Brown et al. 
 	?. Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma et al.
 
