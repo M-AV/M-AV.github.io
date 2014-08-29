@@ -143,6 +143,16 @@ header nav li {
     text-align: center;
     float:left;
 }
+#front_post_nav_prev {
+    float: left;
+}
+#front_post_nav_archive {
+    display: inline-block;
+    margin: 0 auto;
+}
+#front_post_nav_next {
+    float: right;
+}
 
 /************
  Post styling

@@ -5,7 +5,7 @@ title: MAV playing around
 
 <section id="main">
 <ul>
-  {% for post in site.posts limit:5 %}
+  {% for post in paginator.posts %}
 	<li>
   		<article>
       <div class='post_title_wrapper'> 
@@ -23,8 +23,19 @@ title: MAV playing around
   {% endfor %}
 </ul>
 
-
 <div id='front_post_nav'>
-  <a href="{{ site.url }}/archive"> More posts </a>
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">      <!-- using next_page because page nav is 'opposite' in Jekyll..  -->
+    <div id="front_post_nav_prev" {% if paginator.next_page %}{% else %} style="visibility:hidden;" {% endif %}> 
+      <a href="{{ paginator.next_page_path | replace: '//', '/' }}">&laquo; Prev</a>
+    </div>
+
+      <a href="{{ site.url }}/archive"> Archive </a>
+
+    <div id="front_post_nav_next" {% if paginator.previous_page %}{% else %} style="visibility:hidden;" {% endif %}>
+      <a href="{{ paginator.previous_page_path | replace: '//', '/' }}">Next &raquo;</a>
+    </div>
+  </div>
+  {% endif %}
 </div>
 </section>

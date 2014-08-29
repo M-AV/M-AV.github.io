@@ -3,8 +3,8 @@ description: Still testing
 title: Is this a blog?
 
 url: http://blog.m-a-v.dk
-    #file:///E:/Projects/GitHub_Website/M-AV.github.io/_site
     #http://blog.m-a-v.dk
+    #http://localhost:1337
 markdown: redcarpet
 redcarpet:
     extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
@@ -13,6 +13,7 @@ safe: true
 permalink: pretty
 author: 'Mikkel Vej'
 email: blog@m-a-v.dk
+paginate: 3 # Max amount of post displayed per page
 
 disqus:
     shortname: 'M-AV'
