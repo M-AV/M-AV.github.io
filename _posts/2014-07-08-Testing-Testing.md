@@ -2,7 +2,7 @@
 layout: post
 title: Reading List
 date: 2014-04-08
-comments: false
+comments: true
 ---
 
 # Heading
