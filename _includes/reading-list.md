@@ -13,8 +13,8 @@ ________________________________________________________________________________
 
 	?. Effective Java - Joshua Bloch
 	?. Pro Python - Marty Alchin
-	?. A Programmer's Guide to C# 5.0
-	?. F# for C# Developers
+	?. A Programmer's Guide to C# 5.0 - Eric Gunnerson and Nick Wienholt
+	?. F# for C# Developers - Tao Liu
 
 #General programming:
 	1. Working Effectively with Legacy Code - Michael Feathers
