@@ -52,9 +52,17 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     display: block;
 }
 
-/***************
+/***************/
 
-***************/
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
 /* Structure */
 #wrapper {
     width: 96%; 

@@ -4,7 +4,7 @@ layout: default
 
 <section id='main'>
 	<div class='post_title_wrapper'> 
-		<h1 class='post_title'> {{ page.title }} </h1>
+		<h1 class='post_title'> {{ page.title }} </h1> {{ page.tags | array_to_sentence_string}}
 		<strong class='post_date'> {{ page.date | date: "%B %d, %Y" }} </strong>
 	</div>
 	
