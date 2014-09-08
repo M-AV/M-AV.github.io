@@ -4,11 +4,12 @@ title: Shout-out to 'Any()'
 date: 2014-09-08
 comments: true
 tags: [C#, .NET]
+category: Programming
 ---
 
-I will use this first post to remind whoever reads this about a useful method in the *System.Linq* namespace in .NET. This method is apparently (for reasons unknown) often forgotten. I'm talking about [`IEnumerable<T>.Any<T>()`][MSDN - Any()] (and let's not forget its [overload][MSDN - Any(Func)] - I will refer to both as `Any()` throughout this post).
+I will use this first post to remind whoever reads this about a useful method in the *System.Linq* namespace in .NET.  I'm talking about [`IEnumerable<T>.Any<T>()`][MSDN - Any()] (and let's not forget its [overload][MSDN - Any(Func)] - I will refer to both as `Any()` throughout this post).
 
-For those who don't know what that method does (and can't guess it based on its name), here is a quote from the documentation:
+For those who don't know what that method does (and can't guess it based on its name), here is what the documentation has to say:
 
 > *Determines whether a sequence contains any elements.*
 
@@ -21,11 +22,11 @@ For some reason this method is often forgotten (or at least not used when it cou
 ```csharp
 1: someSequence.Count() > 0
 2: someSequence.FirstOrDefault() != null 
-3: someSequence.Where(x => x.SomeCondition).Count() > 0
+3: someSequence.Count(x => x.SomeCondition) > 0
 4: someSequence.Where(x => x.SomeCondition).Count() == 0
 ```
 
-and more like those. I have seen all of these statements in production code (usually as the condition to an if-statement). 
+and more like those. I typically see these used as the condition to an if-statement. 
 
 If `Any()` was used instead it would look like this: 
 
@@ -39,9 +40,9 @@ If `Any()` was used instead it would look like this:
 
 Isn't that simpler? (Some might like [`All<T>(..)`][MSDN - All()] better for the 3rd one. But still..)
 
-By using `Any()` the code clearly tells the reader that we are only interested in whether the sequence contains any elements (that satisfy a condition). It shows *intent*.
+By using `Any()` the code clearly tells the reader that we are only interested in whether the sequence contains any elements (or contains any elements that satisfy a condition). It shows *intent*.
 
-`Any()` might also provide a performance increase compared to `Count()`. `Count()` is optimized when applied to a collection implementing the `ICollection` or `ICollection<T>` interface (in those cases it uses the property `Count` that is assumed to be faster). But if you have a sequence that do not implement either of those interfaces, `Count()` will go through *each element* in the sequence in order to count them. So if you have a very big sequence `Count()` might take quite a long time to execute, whereas `Any()` just have to see if there is an element (the overloaded `Any()` that accepts a predicate might have to through all the items also - but only if no elements in the sequence satisfy the predicate). 
+`Any()` might also provide a performance increase compared to `Count()`. `Count()` is optimized when applied to a collection implementing the `ICollection` or `ICollection<T>` interface (in those cases it uses the property `Count` that is assumed to be faster). But if you have a sequence that do not implement either of those interfaces, `Count()` will go through *each element* in the sequence in order to count them. So if you have a very big sequence `Count()` might take quite a long time to execute, whereas `Any()` just have to see if there is an element (the overload of `Any()` that accepts a predicate might have to through all the items - but only if no elements in the sequence satisfy the predicate). 
 
 So unless you have a good reason *not* to use `Any()` I endorse you to use it. 
 
