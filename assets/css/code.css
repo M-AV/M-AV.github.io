@@ -3,14 +3,11 @@
 code, pre {
   padding: 0 3px 2px;
   font-family: Menlo, Monaco, "Courier New", monospace;
-  font-size: 12px;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
+  font-size: 15px;
 }
 code {
   padding: 3px 4px;
-  color: #d14;
+  color: #191919;
 }
 pre {
   display: block;
@@ -29,14 +26,13 @@ pre.prettyprint {
 pre code {
   padding: 0;
   color: inherit;
-  background-color: transparent;
+  background-color: #E8E8E8;
 }
 pre code:not(.language-text) {
   padding: 0;
   color: inherit;
-  background-color: transparent;
-  border-left: 2px solid silver;
-  border-right: 2px solid silver;
+  background-color: #E8E8E8;
+  border: 1px solid silver;
   padding-left: 3px;
 }
 
@@ -79,9 +75,9 @@ pre code:not(.language-text) {
 }
 
 .highlight  { background: #FAFAFA;  }
-.highlight .c { color: #999988; font-style: italic } /* Comment */
+.highlight .c { color:#999988; font-style:italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
-.highlight .k { font-weight: bold } /* Keyword */
+.highlight .k { color:#3232b2; font-weight: bold } /* Keyword */
 .highlight .o { font-weight: bold } /* Operator */
 .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
 .highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
