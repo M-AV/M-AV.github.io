@@ -6,6 +6,7 @@ ________________________________________________________________________________
 	2. The Art of Unit Testing (With examples in .NET) - Roy Osherove
 	3. xUnit Test Patterns (Refactoring Test Code) - Gerard Meszaros
 
+	?. Release It!: Design and Deploy Production-Ready Software - Michael T. Nygaard
 
 #Programming Languages:
 	1. → C# in Depth - Jon Skeet
@@ -32,8 +33,9 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________
 ##ARTICLES:
-
-    - A Measurement Study of Google Play
+     
+    ✓. All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution (but might have been afraid to ask) - Edward J. Schwartz, Thanassis Avgerinos, David Brumley
+    ?. A Measurement Study of Google Play
 
 ____________________________________________________________________________________________________________________
 
