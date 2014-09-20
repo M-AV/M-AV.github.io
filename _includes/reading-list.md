@@ -24,6 +24,9 @@ ________________________________________________________________________________
 	?. Microsoft Application Architecture Guide, 2nd Edition - http://msdn.microsoft.com/en-us/library/ff650706.aspx or pdf
 	?. AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis - William J. Brown et al. 
 	?. Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma et al.
+	
+#Extra stuff that might be interesting:
+	GIT book: http://git-scm.com/book
 
 #General reading:
 	1. ✓ The Tipping Point - Malcolm Gladwell
