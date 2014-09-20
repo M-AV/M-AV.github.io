@@ -25,7 +25,11 @@ ________________________________________________________________________________
 	?. AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis - William J. Brown et al. 
 	?. Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma et al.
 	
-#Extra stuff that might be interesting:
+#Extra stuff:
+	Data Flow Analysis - Theory and Practice - Uday P. Khedker, Amitabha Sanyal, Bageshri Karkare
+	
+	The Web Application Hacker's Handbook - Dafydd Stuttard, Marcus Pinto
+	
 	GIT book: http://git-scm.com/book
 
 #General reading:
