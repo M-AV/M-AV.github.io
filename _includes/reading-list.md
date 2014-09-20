@@ -26,7 +26,7 @@ ________________________________________________________________________________
 	?. Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma et al.
 	
 #Extra stuff:
-	Data Flow Analysis - Theory and Practice - Uday P. Khedker, Amitabha Sanyal, Bageshri Karkare
+	Data Flow Analysis: Theory and Practice - Uday P. Khedker, Amitabha Sanyal, Bageshri Karkare
 	
 	The Web Application Hacker's Handbook - Dafydd Stuttard, Marcus Pinto
 	
