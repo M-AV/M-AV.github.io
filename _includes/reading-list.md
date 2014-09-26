@@ -2,7 +2,7 @@ ________________________________________________________________________________
 ##BOOKS:
 
 #Testing & Patterns:
-	1. → Dependency Injection in .NET - Mark Seeman 
+	1. ✓ Dependency Injection in .NET - Mark Seeman 
 	2. The Art of Unit Testing (With examples in .NET) - Roy Osherove
 	3. xUnit Test Patterns (Refactoring Test Code) - Gerard Meszaros
 
