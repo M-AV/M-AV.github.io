@@ -59,7 +59,7 @@ public void DoSomething(string someString, object fancyObject, int aNumber)
 
 There is a million reasons why ``fancyObject`` could be null and it doesn't really matter why it is (for this example). The point is, you should always try to track down the *source* of an issue and see if you can fix it from there. Don't hide the error as Carl John Johnson did and think everything is dandy. **Try to fix the code properly!**
 
-These kind of fixes typically happens when the actual issue is far away from where we first notice the issue. This is one of the reasons I'm a fan of [failing fast][Fail Fast - Jim Shore], so we notice an error close to where the issue actually is.
+These kind of fixes typically happens when we notice the issue far away from where the problem actually is. This is one of the reasons I'm a fan of [failing fast][Fail Fast - Jim Shore], where we try to force ourselves to notice (or force the application to tell us about) an error close to where the issue actually is.
 
 I am well aware that sometimes these kind of "fixes" might actually be the right way to go. The problem is that sometimes it seems these kinds of fixes are the "default solution". There is a very good chance that at some point you will have to fix the issue anyways, so why not fix it as early as possible? 
 
