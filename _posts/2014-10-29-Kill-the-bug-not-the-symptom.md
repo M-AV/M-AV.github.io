@@ -61,7 +61,7 @@ There is a million reasons why ``fancyObject`` could be null and it doesn't real
 
 These kind of fixes typically happens when we notice the issue far away from where the problem actually is. This is one of the reasons I'm a fan of [failing fast][Fail Fast - Jim Shore], where we try to force ourselves to notice (or force the application to tell us about) an error close to where the issue actually is.
 
-I am well aware that sometimes these kind of "fixes" might actually be the right way to go. The problem is that sometimes it seems these kinds of fixes are the "default solution". There is a very good chance that at some point you will have to fix the issue anyways, so why not fix it as early as possible? 
+I am well aware that sometimes these kind of fixes might actually be the right way to go. The problem is that sometimes it seems these kinds of fixes are the default solution. There is a very good chance that at some point you will have to fix the issue anyways, so why not fix it as early as possible? 
 
 - 1. Roughly..
 
