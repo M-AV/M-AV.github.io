@@ -42,7 +42,7 @@ The code no longer throws a ``NullReferenceException``, we didn't change the cod
 
 The problem with this "fix" is that it didn't fix anything. It prevents the application from throwing an exception, so we can no longer see that there is an error in the error log. The bug is hidden from us and just waiting to escalate into something more serious. *Why was ``fancyObject`` null in the first place?* 
 
-Whenever ``DoSomething`` is called, the calling code expects ``DoSomething`` to *actually do something*. With Carls fix, we can no longer be sure that that something is being done. Worse, we are not being told whether it is being done or not. Carl shouldn't have tried to fix the error in this method. If he must do something to it I think he (probably) should have added *guard clauses*. 
+Whenever ``DoSomething`` is called, the calling code expects ``DoSomething`` to *actually do something*. With Carl's fix, we can no longer be sure that that something is being done. Worse, we are not being told whether it is being done or not. Carl shouldn't have tried to fix the error in this method. If he must do something to it I think he (probably) should have added *guard clauses*. 
 
 {% highlight C# %}
 
