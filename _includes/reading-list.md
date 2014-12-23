@@ -20,22 +20,27 @@ ________________________________________________________________________________
 #General programming:
 	1. Working Effectively with Legacy Code - Michael Feathers
 	2. The Mythical Man-month - Frederick P. Brooks, Jr.
+	3. Clean Code - Robert C. Martin
 
 	?. Microsoft Application Architecture Guide, 2nd Edition - http://msdn.microsoft.com/en-us/library/ff650706.aspx or pdf
 	?. AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis - William J. Brown et al. 
 	?. Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma et al.
 	
+#Security/Hacking:
+	?. The Web Application Hacker's Handbook - Dafydd Stuttard, Marcus Pinto
+	?. Hacking: The Art of Exploitation - John Erickson
+	
 #Extra stuff:
 	Data Flow Analysis: Theory and Practice - Uday P. Khedker, Amitabha Sanyal, Bageshri Karkare
 	
-	The Web Application Hacker's Handbook - Dafydd Stuttard, Marcus Pinto
+	
 	
 	GIT book: http://git-scm.com/book
 
 #General reading:
 	1. ✓ The Tipping Point - Malcolm Gladwell
 	2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
-	3. How to Win Friends and Influence People - Dale Carnegie
+	3. →  How to Win Friends and Influence People - Dale Carnegie
 
 
 ____________________________________________________________________________________________________________________
