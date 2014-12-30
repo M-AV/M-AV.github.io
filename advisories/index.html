@@ -1,0 +1,11 @@
+---
+layout: default
+title: Security advisories
+---
+
+<section id="main">
+{% capture reading %}
+	{% include pages/advisories.md %}
+{% endcapture %}
+{{ reading | markdownify }}
+</section>
