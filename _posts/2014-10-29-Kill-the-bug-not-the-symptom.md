@@ -15,7 +15,7 @@ Let's say that one day you look through your error log and see that your applica
 
 {% highlight C# %}
 
-public void DoSomething(string someString, object fancyObject, int aNumber)
+public void DoSomething(string someString, SomeObject fancyObject, int aNumber)
 {
 	/*... some code ...*/
 	fancyObject.InvokingMethod();
@@ -28,7 +28,7 @@ You have an important business meeting, so you ask you colleague (let's call him
 
 {% highlight C# %}
 
-public void DoSomething(string someString, object fancyObject, int aNumber)
+public void DoSomething(string someString, SomeObject fancyObject, int aNumber)
 {
 	if(fancyObject == null) { return; }
 	/*... some code ...*/
