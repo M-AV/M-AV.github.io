@@ -11,17 +11,17 @@
 
 ###Programming Languages:
 	1. → C# in Depth - Jon Skeet
-	2. CLR via. C# - Jeffrey Richter
-
+	
+	?. CLR via. C# - Jeffrey Richter
 	?. Effective Java - Joshua Bloch
 	?. Pro Python - Marty Alchin
 	?. A Programmer's Guide to C# 5.0 - Eric Gunnerson and Nick Wienholt
 	?. F# for C# Developers - Tao Liu
 
 ###General programming:
-	1. Working Effectively with Legacy Code - Michael Feathers
-	2. The Mythical Man-month - Frederick P. Brooks, Jr.
-	3. Clean Code - Robert C. Martin
+	1. → Working Effectively with Legacy Code - Michael Feathers
+	2. → Clean Code - Robert C. Martin
+	3. The Mythical Man-month - Frederick P. Brooks, Jr.
 
 	?. Microsoft Application Architecture Guide, 2nd Edition - http://msdn.microsoft.com/en-us/library/ff650706.aspx or pdf
 	?. AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis - William J. Brown et al. 
