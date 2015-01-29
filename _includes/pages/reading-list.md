@@ -36,12 +36,6 @@
 	2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
 	3. →  How to Win Friends and Influence People - Dale Carnegie
 
-#Articles
-     
-    ✓. All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution (but might have been afraid to ask) - Edward J. Schwartz, Thanassis Avgerinos, David Brumley
-    ?. A Measurement Study of Google Play
-    *** Not maintained ***
-
 #Topics
     - CQRS (Command Query Responsibility Segregation)
     - AOP (Aspect Oriented Programming) and Cross-Cutting Concerns 
