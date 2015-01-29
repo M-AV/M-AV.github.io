@@ -31,10 +31,6 @@
 	?. The Web Application Hacker's Handbook - Dafydd Stuttard, Marcus Pinto
 	?. Hacking: The Art of Exploitation - John Erickson
 	
-###Extra stuff:
-	?. Data Flow Analysis: Theory and Practice - Uday P. Khedker, Amitabha Sanyal, Bageshri Karkare
-	?. GIT book: http://git-scm.com/book
-
 ###General reading:
 	1. ✓ The Tipping Point - Malcolm Gladwell
 	2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
