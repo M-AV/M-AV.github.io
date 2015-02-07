@@ -26,6 +26,9 @@
 	?. Microsoft Application Architecture Guide, 2nd Edition - http://msdn.microsoft.com/en-us/library/ff650706.aspx or pdf
 	?. AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis - William J. Brown et al. 
 	?. Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma et al.
+	?. Head First Design Patterns - Eric Freeman & Elisabeth Freeman
+	?. The Pragmatic Programmer - Andrew Hunt & David Thomas
+	?. The Productive Programmer - Neal Ford
 	
 ###Security/Hacking:
 	?. The Web Application Hacker's Handbook - Dafydd Stuttard, Marcus Pinto
