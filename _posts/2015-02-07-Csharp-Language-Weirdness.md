@@ -7,7 +7,7 @@ tags: [C#]
 category: C#
 ---
 
-When using and learning about a programming language you are bound to, at some point, learn about some oddities in the programming language. Recently, I (once again) stumbled across *[What's the strangest corner case you've seen in C# or .NET?][SO - Corner]* question on [StackOverflow][SO] and I thought I would compile a list of some, of what I consider to be, surprising "features" of the C# *language*.
+When using and learning about a programming language you are bound to, at some point, learn about some oddities in the programming language. Recently, I (once again) stumbled across the *[What's the strangest corner case you've seen in C# or .NET?][SO - Corner]* question on [StackOverflow][SO] and I thought I would compile a list of some, of what I consider to be, surprising "features" of the C# *language*.
 
 So here goes (in no particular order).
 
