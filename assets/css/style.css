@@ -170,7 +170,7 @@ header nav li {
 }
 section .post_title {
    font-family: 'MerryWeather', Serif; 
-   text-align: left;
+   text-align: center;
    float:left;
    width: 100%;
    border-bottom: 1px solid silver;
