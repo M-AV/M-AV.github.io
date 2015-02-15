@@ -6,27 +6,26 @@ In the fall 2014, I started (as part of my Master's thesis) to look into web sec
 # WordPress plugins
 |  Name                            | Version  | Vulnerability     | Published  |
 | :------------------------------: | :------: | :---------------: | :--------: |
-| [WP-FB Autoconnect][WPP-1]       | 4.0.5    | Stored XSS & CSRF | 2014-12-12 |
-| [Facebook Like Box][WPP-2]       | 2.8.2    | Stored XSS & CSRF | 2014-12-12 |
-| [WP-ViperGB][WPP-3]              | 1.3.10   | Stored XSS & CSRF | 2014-12-12 |
-| [Simple Sticky Footer][WPP-4]    | 1.3.2    | Stored XSS & CSRF | 2014-12-12 |
-| [IP Ban][WPP-5]                  | 1.2.3    | Stored XSS & CSRF | 2014-12-12 |
-| [Lightbox Photo Gallery][WPP-6]  | 1.0      | Stored XSS & CSRF | 2014-12-12 |
-| [Our Team Showcase][WPP-7]       | 1.2      | Stored XSS & CSRF | 2014-12-12 |
-| [Sliding Recent Posts][WPP-8]    | 1.0.0    | Stored XSS & CSRF | 2014-12-12 |
-| [Sliding Social Icons][WPP-9]    | 1.61     | Stored XSS & CSRF | 2014-12-12 |
-| [Timed Popup][WPP-10]            | 1.3      | Stored XSS & CSRF | 2014-12-12 |
-| [Simple Visitor Stat][WPP-11]    | 1.0      | Stored XSS        | 2014-12-12 |
-| [WP Constuction Mode][WPP-12]    | 1.91     | Reflected XSS     | 2014-12-12 |
-| [Mobile Domain][WPP-13]          | 1.5.2    | Stored XSS & CSRF | 2015-02-09 |
-| [Cross Slide][WPP-14]            | 2.0.5    | XSS & CSRF        | 2015-02-09 |
-| [Spider Facebook][WPP-15]        | 1.0.10   | XSS               | 2015-02-09 |
-| [Redirection Page][WPP-16]       | 1.2      | XSS & CSRF        | 2015-02-09 |
-| [Google Doc Embedder][WPP-17]    | 2.5.18   | XSS               | 2015-02-09 |
-| [Acobot Live Chat..][WPP-18]     | 2.0      | XSS & CSRF        | 2015-02-09 |
-| [Cart66 Lite][WPP-19]            | 1.5.4    | XSS               | 2015-02-09 |
 | [Contact Form DB][WPP-20]        | 2.8.26   | XSS               | 2015-02-09 |
-
+| [Cart66 Lite][WPP-19]            | 1.5.4    | XSS               | 2015-02-09 |
+| [Acobot Live Chat..][WPP-18]     | 2.0      | XSS & CSRF        | 2015-02-09 |
+| [Google Doc Embedder][WPP-17]    | 2.5.18   | XSS               | 2015-02-09 |
+| [Redirection Page][WPP-16]       | 1.2      | XSS & CSRF        | 2015-02-09 |
+| [Spider Facebook][WPP-15]        | 1.0.10   | XSS               | 2015-02-09 |
+| [Cross Slide][WPP-14]            | 2.0.5    | XSS & CSRF        | 2015-02-09 |
+| [Mobile Domain][WPP-13]          | 1.5.2    | Stored XSS & CSRF | 2015-02-09 |
+| [WP Constuction Mode][WPP-12]    | 1.91     | Reflected XSS     | 2014-12-12 |
+| [Simple Visitor Stat][WPP-11]    | 1.0      | Stored XSS        | 2014-12-12 |
+| [Timed Popup][WPP-10]            | 1.3      | Stored XSS & CSRF | 2014-12-12 |
+| [Sliding Social Icons][WPP-9]    | 1.61     | Stored XSS & CSRF | 2014-12-12 |
+| [Sliding Recent Posts][WPP-8]    | 1.0.0    | Stored XSS & CSRF | 2014-12-12 |
+| [Our Team Showcase][WPP-7]       | 1.2      | Stored XSS & CSRF | 2014-12-12 |
+| [Lightbox Photo Gallery][WPP-6]  | 1.0      | Stored XSS & CSRF | 2014-12-12 |
+| [IP Ban][WPP-5]                  | 1.2.3    | Stored XSS & CSRF | 2014-12-12 |
+| [Simple Sticky Footer][WPP-4]    | 1.3.2    | Stored XSS & CSRF | 2014-12-12 |
+| [WP-ViperGB][WPP-3]              | 1.3.10   | Stored XSS & CSRF | 2014-12-12 |
+| [Facebook Like Box][WPP-2]       | 2.8.2    | Stored XSS & CSRF | 2014-12-12 |
+| [WP-FB Autoconnect][WPP-1]       | 4.0.5    | Stored XSS & CSRF | 2014-12-12 |
 <br />  
 
 # Other vulnerabilities
