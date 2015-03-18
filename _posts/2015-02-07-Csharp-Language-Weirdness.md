@@ -2,7 +2,7 @@
 layout: post
 title: C# Language Weirdness
 date: 2015-02-07
-comments: false
+comments: true
 tags: [C#]
 category: C#
 ---
