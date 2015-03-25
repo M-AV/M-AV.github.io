@@ -7,14 +7,14 @@
 2. ╴ The Art of Unit Testing (With examples in .NET) - *Roy Osherove*
 3. ╴ xUnit Test Patterns (Refactoring Test Code) - *Gerard Meszaros*
 
-━━
+<br />
 
 - ╶ Release It!: Design and Deploy Production-Ready Software - *Michael T. Nygaard*
 
 ###Programming Languages:
 1. → **C# in Depth - _Jon Skeet_**
 
-━━
+<br />
 
 - ╴ CLR via. C# - _Jeffrey Richter_
 - ╴ Effective Java - _Joshua Bloch_
@@ -27,7 +27,7 @@
 - → **Clean Code - _Robert C. Martin_**
 - ╴ The Mythical Man-month - _Frederick P. Brooks, Jr._
 
-━━
+<br />
 
 - ╴ [Microsoft Application Architecture Guide, 2nd Edition](http://msdn.microsoft.com/en-us/library/ff650706.aspx) or [pdf](https://www.microsoft.com/downloads/details.aspx?FamilyID=ce40e4e1-9838-4c89-a197-a373b2a60df2&DisplayLang=en)
 - ╴ AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis - _William J. Brown et al._
@@ -35,6 +35,8 @@
 - ╴ Head First Design Patterns - _Eric Freeman & Elisabeth Freeman_
 - ╴ The Pragmatic Programmer - _Andrew Hunt & David Thomas_
 - ╴ The Productive Programmer - _Neal Ford_
+- ╴ Programming Pearls - _Jon Bentley_
+- ╴ Cracking the Coding Interview: 150 Programming Questions .. - _Gayle Laakmann_
 	
 ###Security/Hacking:
 - ╴ The Web Application Hacker's Handbook - _Dafydd Stuttard, Marcus Pinto_
