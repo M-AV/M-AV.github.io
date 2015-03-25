@@ -46,7 +46,7 @@ Whenever ``DoSomething`` is called, the calling code expects ``DoSomething`` to 
 
 {% highlight C# %}
 
-public void DoSomething(string someString, object fancyObject, int aNumber)
+public void DoSomething(string someString, SomeObject fancyObject, int aNumber)
 {
 	if(someString == null) { throw new ArgumentNullException("someString"); }
 	if(fancyObject == null) { throw new ArgumentNullException("fancyObject"); }
