@@ -1,44 +1,53 @@
 <div class='post_title_wrapper'> 
 		<h1 class='post_title'>Reading List </h1>
 </div>
-#Books
+# Books
 ###Testing & Patterns:
-	1. ✓ Dependency Injection in .NET - Mark Seeman 
-	2. The Art of Unit Testing (With examples in .NET) - Roy Osherove
-	3. xUnit Test Patterns (Refactoring Test Code) - Gerard Meszaros
+1. ✓ Dependency Injection in .NET - *Mark Seeman* 
+2. ╴ The Art of Unit Testing (With examples in .NET) - *Roy Osherove*
+3. ╴ xUnit Test Patterns (Refactoring Test Code) - *Gerard Meszaros*
 
-	?. Release It!: Design and Deploy Production-Ready Software - Michael T. Nygaard
+━━
+
+- ╶ Release It!: Design and Deploy Production-Ready Software - *Michael T. Nygaard*
 
 ###Programming Languages:
-	1. → C# in Depth - Jon Skeet
-	
-	?. CLR via. C# - Jeffrey Richter
-	?. Effective Java - Joshua Bloch
-	?. Pro Python - Marty Alchin
-	?. A Programmer's Guide to C# 5.0 - Eric Gunnerson and Nick Wienholt
-	?. F# for C# Developers - Tao Liu
+1. → **C# in Depth - _Jon Skeet_**
+
+━━
+
+- ╴ CLR via. C# - _Jeffrey Richter_
+- ╴ Effective Java - _Joshua Bloch_
+- ╴ Pro Python - _Marty Alchin_
+- ╴ A Programmer's Guide to C# 5.0 - _Eric Gunnerson and Nick Wienholt_
+- ╴ F# for C# Developers - _Tao Liu_
 
 ###General programming:
-	1. → Working Effectively with Legacy Code - Michael Feathers
-	2. → Clean Code - Robert C. Martin
-	3. The Mythical Man-month - Frederick P. Brooks, Jr.
+- → **Working Effectively with Legacy Code - _Michael Feathers_**
+- → **Clean Code - _Robert C. Martin_**
+- ╴ The Mythical Man-month - _Frederick P. Brooks, Jr._
 
-	?. Microsoft Application Architecture Guide, 2nd Edition - http://msdn.microsoft.com/en-us/library/ff650706.aspx or pdf
-	?. AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis - William J. Brown et al. 
-	?. Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma et al.
-	?. Head First Design Patterns - Eric Freeman & Elisabeth Freeman
-	?. The Pragmatic Programmer - Andrew Hunt & David Thomas
-	?. The Productive Programmer - Neal Ford
+━━
+
+- ╴ [Microsoft Application Architecture Guide, 2nd Edition](http://msdn.microsoft.com/en-us/library/ff650706.aspx) or [pdf](https://www.microsoft.com/downloads/details.aspx?FamilyID=ce40e4e1-9838-4c89-a197-a373b2a60df2&DisplayLang=en)
+- ╴ AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis - _William J. Brown et al._
+- ╴ Design Patterns: Elements of Reusable Object-Oriented Software - _Erich Gamma et al._
+- ╴ Head First Design Patterns - _Eric Freeman & Elisabeth Freeman_
+- ╴ The Pragmatic Programmer - _Andrew Hunt & David Thomas_
+- ╴ The Productive Programmer - _Neal Ford_
 	
 ###Security/Hacking:
-	?. The Web Application Hacker's Handbook - Dafydd Stuttard, Marcus Pinto
-	?. Hacking: The Art of Exploitation - John Erickson
-	
-###General reading:
-	1. ✓ The Tipping Point - Malcolm Gladwell
-	2. ✓ You Must be Joking Mr. Feynman - Richard P. Feynman / Ralph Leighton
-	3. →  How to Win Friends and Influence People - Dale Carnegie
+- ╴ The Web Application Hacker's Handbook - _Dafydd Stuttard, Marcus Pinto_
+- ╴ Hacking: The Art of Exploitation - _John Erickson_
 
-#Topics
-    - CQRS (Command Query Responsibility Segregation)
-    - AOP (Aspect Oriented Programming) and Cross-Cutting Concerns 
+
+###General reading:
+1. ✓ The Tipping Point - _Malcolm Gladwell_
+2. ✓ You Must be Joking Mr. Feynman - _Richard P. Feynman / Ralph Leighton_
+3. →  **How to Win Friends and Influence People - _Dale Carnegie_**
+
+<br />
+# Topics
+- ╴ CQRS (Command Query Responsibility Segregation)
+- ╴ AOP (Aspect Oriented Programming) and Cross-Cutting Concerns 
+ 
