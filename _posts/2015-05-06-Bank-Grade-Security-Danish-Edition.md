@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bank Grade Security - Danish bank edition
-date: 2015-04-06
+date: 2015-05-06
 comments: true
 tags: [Security, SSL]
 category: 
