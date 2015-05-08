@@ -141,6 +141,7 @@ Other people had the same thought as I did after reading Troy's post. Here is a 
 *Danish banks*: [Jamie Magee's blog][JamieM]
  <small>- Seems like I wasn't the only one interested in how the Danish banks fare. There is some overlap but Jamie Magee did test some banks that I have not.  </small>  
 *Dutch banks*: [Rob Janssen's blog][Dutch]    
+*Lithuanian banks*: [Google Docs document][Lithuanian]  
 *South African banks*: [Ian Gilfillian's blog][IanG]  
 *UK banks*: [Wilka Hudson's blog][MagneticMonkey]  
 
@@ -160,6 +161,7 @@ Other people had the same thought as I did after reading Troy's post. Here is a 
 [GDocs]: https://docs.google.com/spreadsheets/d/1LI1Pk0IwAvD9FE4ShHIU8ajT_NvEtGxO0VFW4OR78TY/edit#gid=0 "Banks & HTTPS in the Czech Republic"
 [JamieM]: https://jamiemagee.co.uk/2015/05/06/do-you-want-bank-grade-ssl-danish-edition/ "Jamie Magee - Do -you really want "bank grade" security in your SSL? Danish edition" 
 [Dutch]: http://blog.robiii.nl/2015/05/do-you-really-want-bank-grade-security.html "RobIII - Do you really want "bank grade" security in your SSL? Dutch edition"
+[Lithuanian]: https://docs.google.com/spreadsheets/d/1ggl-WkbnI3-zd3Rs4SkPIQnUt1I4Vg4vhRL_FQwC7us/edit#gid=0 "Banks in Lithuania"
 
 [VB]: https://www.ssllabs.com/ssltest/analyze.html?d=vestjyskbank.dk "SSLLabs - Vestjyskbank.dk"
 [DB]: https://www.ssllabs.com/ssltest/analyze.html?d=https%3A%2F%2Fwww.danskebank.dk "SSLLabs - www.danskebank.dk"
