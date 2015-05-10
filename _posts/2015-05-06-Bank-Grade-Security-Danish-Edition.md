@@ -134,9 +134,10 @@ These results seem to be consistent with the Aussie banks in Troy Hunt's post.
 
 
 
-Other people had the same thought as I did after reading Troy's post. Here is a list of posts with results from other countries (found in the comments to Troy's post):
+Other people had the same thought as I did after reading Troy's post. Here is a list of posts with results from other countries:
 
 *Australian banks*: [Troy Hunt's blog][TroyHunt]  
+*Canadian banks*: [Simon Timm's blog][SimonOnline]
 *Czech Republic banks*: [Google Docs document][GDocs]  
 *Danish banks*: [Jamie Magee's blog][JamieM]
  <small>- Seems like I wasn't the only one interested in how the Danish banks fare. There is some overlap but Jamie Magee did test some banks that I have not.  </small>  
@@ -163,6 +164,7 @@ Other people had the same thought as I did after reading Troy's post. Here is a 
 [Dutch]: http://blog.robiii.nl/2015/05/do-you-really-want-bank-grade-security.html "RobIII - Do you really want "bank grade" security in your SSL? Dutch edition"
 [Lithuanian]: https://docs.google.com/spreadsheets/d/1ggl-WkbnI3-zd3Rs4SkPIQnUt1I4Vg4vhRL_FQwC7us/edit#gid=0 "Banks in Lithuania"
 [BrutalDev]: https://brutaldev.com/post/bank-grade-security---south-african-bank-edition "Brutal Developer - Bank Grade Security - South African bank edition"
+[SimonOnline]: http://blog.simontimms.com/2015/05/09/do-you-really-want-bank-grade-security-in-your-ssl/ "Simon Online - Do you really want "bank grade" security in your SSL? Canadian edition"
 
 [VB]: https://www.ssllabs.com/ssltest/analyze.html?d=vestjyskbank.dk "SSLLabs - Vestjyskbank.dk"
 [DB]: https://www.ssllabs.com/ssltest/analyze.html?d=https%3A%2F%2Fwww.danskebank.dk "SSLLabs - www.danskebank.dk"
