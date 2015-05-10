@@ -137,7 +137,7 @@ These results seem to be consistent with the Aussie banks in Troy Hunt's post.
 Other people had the same thought as I did after reading Troy's post. Here is a list of posts with results from other countries:
 
 *Australian banks*: [Troy Hunt's blog][TroyHunt]  
-*Canadian banks*: [Simon Timm's blog][SimonOnline]
+*Canadian banks*: [Simon Timm's blog][SimonOnline]  
 *Czech Republic banks*: [Google Docs document][GDocs]  
 *Danish banks*: [Jamie Magee's blog][JamieM]
  <small>- Seems like I wasn't the only one interested in how the Danish banks fare. There is some overlap but Jamie Magee did test some banks that I have not.  </small>  
