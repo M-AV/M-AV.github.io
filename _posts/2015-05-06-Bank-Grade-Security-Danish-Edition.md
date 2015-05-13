@@ -11,6 +11,8 @@ A few days ago, Troy Hunt published a [blog post][TroyHunt] about various banks 
 
 I threw a bunch of Danish bank URLs through the SSL Server Test and the results can be seen in the table below. It should be noted that I have taken the URL to the page displaying the [NemID][NemId] login form (a common login platform used by all Danish banks).
 
+**Update, 13 May**: Finansbanken is no longer vulnerable to POODLE and is now supporting TLS 1.2. This improves their rating to **B**. 
+
 <table><thead>
 <tr>
 <th style="text-align: center">Bank</th>
