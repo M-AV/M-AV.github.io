@@ -21,3 +21,11 @@ disqus:
 excerpt_separator: "<!--more-->"
 
 min_width: '300px'
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      is_post: "true"

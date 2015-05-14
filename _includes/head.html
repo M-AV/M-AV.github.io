@@ -1,8 +1,8 @@
 <title>
-	{% if page.title %} 
-		{{ page.title }}
-	{%else %} 
-		***Default layout title***
+ 	{% if page.is_post %} 
+ 		{{ page.title }} | {{ site.title }}
+	{% else %} 
+		{{ site.title }}
 	{% endif %}
 </title>
 <meta author="{{ site.author }}">
