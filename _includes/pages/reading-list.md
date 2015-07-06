@@ -37,6 +37,10 @@
 - ╴ The Productive Programmer - _Neal Ford_
 - ╴ Programming Pearls - _Jon Bentley_
 - ╴ Cracking the Coding Interview: 150 Programming Questions .. - _Gayle Laakmann_
+
+- ╴ The New Turing Omnibus
+- ╴ [The Little Book of Semaphores](http://greenteapress.com/semaphores/downey08semaphores.pdf)
+- ╴ 
 	
 ###Security/Hacking:
 - ╴ The Web Application Hacker's Handbook - _Dafydd Stuttard, Marcus Pinto_
@@ -48,6 +52,8 @@
 2. ✓ You Must be Joking Mr. Feynman - _Richard P. Feynman / Ralph Leighton_
 3. →  **How to Win Friends and Influence People - _Dale Carnegie_**
 
+- ╴ Feynnman Lectures on Computation - Richard P. Feynman
+- ╴ 
 <br />
 # Topics
 - ╴ CQRS (Command Query Responsibility Segregation)
