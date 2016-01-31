@@ -51,6 +51,7 @@
 1. ✓ The Tipping Point - _Malcolm Gladwell_
 2. ✓ You Must be Joking Mr. Feynman - _Richard P. Feynman / Ralph Leighton_
 3. →  **How to Win Friends and Influence People - _Dale Carnegie_**
+4. →  **[Spam Nation - *Brian Krebs*](https://www.amazon.com/Spam-Nation-Organized-Cybercrimefrom-Epidemic/dp/1501210432)**
 
 - ╴ Feynnman Lectures on Computation - Richard P. Feynman
 - ╴ 
