@@ -105,7 +105,7 @@ I have tested all the banks I tested last time, as well as the ones [Jamie Magee
 </tr>
 <tr>
 <td style="text-align: center; background-color:lawngreen; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=lsb.dk" title="SSLLabs - lsb.dk">Lån &amp; Spar Bank</a></td>
-<td style="text-align: center; background-color:lawngreen; color:white"><strong>A</strong></td>
+<td style="text-align: center; background-color:lawngreen; color:white"><strong>A-</strong></td>
 <td style="text-align: center; background-color:green; color:white">Pass</td>
 <td style="text-align: center; background-color:green; color:white">Pass</td>
 <td style="text-align: center; background-color:green; color:white">Pass</td>
