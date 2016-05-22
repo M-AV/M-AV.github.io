@@ -54,7 +54,9 @@
 4. →  **[Spam Nation - *Brian Krebs*](https://www.amazon.com/Spam-Nation-Organized-Cybercrimefrom-Epidemic/dp/1501210432)**
 
 - ╴ Feynnman Lectures on Computation - Richard P. Feynman
-- ╴ 
+- ╴ [The Mark Inside: A Perfect Swindle, a Cunning Revenge, and a Small History of the Big Con](https://www.amazon.com/Mark-Inside-Perfect-Swindle-Cunning-ebook/dp/B005IQZB3W?ie=UTF8&ref_=k4w_ss_details_rh) - _Amy Reading_
+- - [The Confidence Game: Why We Fall for It . . . Every Time](https://www.amazon.com/Confidence-Game-Fall-Every-Time-ebook/dp/B00WDP836S?ie=UTF8&dpID=41xRgyXKn0L&dpSrc=sims&preST=_OU01_AC_UL320_SR212%2C320_&refRID=1Q54YRM4XTGYW4T994PB&ref_=pd_sim_351_3) - _Maria Konnikova_
+- - [Mastermind: How to Think Like Sherlock Holmes](http://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes-ebook/dp/B008EKOSXS/ref=pd_sim_351_1?ie=UTF8&dpID=41h-jEiunQL&dpSrc=sims&preST=_OU01_AC_UL320_SR208%2C320_&refRID=0SWVNB1C29HTCD2DZ504) - _Maria Konnikova_
 <br />
 # Topics
 - ╴ CQRS (Command Query Responsibility Segregation)
