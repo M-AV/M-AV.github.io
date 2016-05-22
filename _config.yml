@@ -8,7 +8,7 @@ url: http://blog.m-a-v.dk
 markdown: kramdown
 redcarpet:
     extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-highlighter: pygments
+highlighter: rouge
 safe: true
 permalink: /:year/:month/:day/:title 
 author: 'Mikkel Vej'
