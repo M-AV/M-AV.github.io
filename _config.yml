@@ -5,7 +5,7 @@ title: Is this a blog?
 url: http://blog.m-a-v.dk
     #http://blog.m-a-v.dk
     #http://localhost:1337
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
     extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 highlighter: pygments
