@@ -66,6 +66,7 @@ pagination_dir: page
 theme: clean-blog
 plugins:
   -hexo-generator-cname
+  -hexo-generator-feed
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
@@ -73,3 +74,8 @@ deploy:
   repository: git@github.com:M-AV/M-AV.github.io.git
   branch: master  
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
