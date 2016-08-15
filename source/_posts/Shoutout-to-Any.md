@@ -1,0 +1,52 @@
+---
+layout: post
+title: Shout-out to 'Any()'
+date: 2014-09-08
+comments: true
+tags: [C#, .NET]
+category: Programming
+---
+
+I will use this first post to remind whoever reads this about a useful method in the *System.Linq* namespace in .NET.  I'm talking about [`IEnumerable<T>.Any<T>()`][MSDN - Any()] (and let's not forget its [overload][MSDN - Any(Func)] - I will refer to both as `Any()` throughout this post).
+
+For those who don't know what that method does (and can't guess it based on its name), here is what the documentation has to say:
+
+> *Determines whether a sequence contains any elements.*
+
+And for the overload:
+
+> *Determines whether any element of a sequence satisfies a condition.*
+
+For some reason this method is often forgotten (or at least not used when it could have been), which result in code like this:
+
+```csharp
+someSequence.Count() > 0
+someSequence.FirstOrDefault() != null 
+someSequence.Count(x => x.SomeCondition) > 0
+someSequence.Where(x => x.SomeCondition).Count() == 0
+```
+
+and more like those. I typically see these used as the condition to an if-statement. 
+
+If `Any()` was used instead it would look like this: 
+
+{% codeblock lang:csharp %}
+someSequence.Any()
+someSequence.Any()
+someSequence.Any(x => x.SomeCondition)
+!someSequence.Any(x => x.SomeCondition)
+{% endcodeblock  %}
+
+Isn't that simpler? (Some might like [`All<T>(..)`][MSDN - All()] better for the 4th one. But still..)
+
+By using `Any()` the code clearly tells the reader that we are only interested in whether the sequence contains any elements (or contains any elements that satisfy a condition). It shows *intent*.
+
+`Any()` might also provide a performance increase compared to `Count()`. `Count()` is optimized when applied to a collection implementing the `ICollection` or `ICollection<T>` interface (in those cases it uses the property `Count` that is assumed to be faster). But if you have a sequence that do not implement either of those interfaces, `Count()` will go through *each element* in the sequence in order to count them. So if you have a very big sequence `Count()` might take quite a long time to execute, whereas `Any()` just have to see if there is an element (the overload of `Any()` that accepts a predicate might have to through all the items - but only if no elements in the sequence satisfy the predicate). 
+
+So unless you have a good reason *not* to use `Any()` I endorse you to use it. 
+
+<!-- Bibliography -->
+
+[MSDN - All()]: http://msdn.microsoft.com/en-us/library/vstudio/bb548541(v=vs.110).aspx "MSDN: Enumerable.All<TSource> Method" 
+[MSDN - Any()]: http://msdn.microsoft.com/en-us/library/bb337697.aspx "MSDN: Enumerable.Any<TSource> Method (IEnumerable<TSource>)"
+[MSDN - Any(Func)]: http://msdn.microsoft.com/en-us/library/bb534972.aspx "MSDN: Enumerable.Any<TSource> Method (IEnumerable<TSource>, Func<TSource, Boolean>)"
