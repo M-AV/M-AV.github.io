@@ -22,9 +22,9 @@ tags:
 ### General programming
 ╴ **Working Effectively with Legacy Code - _Michael Feathers_**
 ╴ **Clean Code - _Robert C. Martin_**
+╴ **[Concurrency in C# Cookbook](http://stephencleary.com/book/) - _Stephen Cleary_**
 ╴ The Mythical Man-month - _Frederick P. Brooks, Jr._
 
- ╴ Concurrency in C# Cookbook - _Stephen Cleary_
  ╴ [Microsoft Application Architecture Guide, 2nd Edition](http://msdn.microsoft.com/en-us/library/ff650706.aspx) or [pdf](https://www.microsoft.com/downloads/details.aspx?FamilyID=ce40e4e1-9838-4c89-a197-a373b2a60df2&DisplayLang=en)
  ╴ AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis - _William J. Brown et al._
  ╴ Design Patterns: Elements of Reusable Object-Oriented Software - _Erich Gamma et al._
@@ -46,6 +46,7 @@ tags:
  ✓ The Tipping Point - _Malcolm Gladwell_
  ✓ You Must be Joking Mr. Feynman - _Richard P. Feynman / Ralph Leighton_
  ✓ How to Win Friends and Influence People - _Dale Carnegie_
+ ╴ **[How to Stop Worrying and Start Living](http://www.audible.co.uk/pd/Health-Personal-Development/How-to-Stop-Worrying-and-Start-Living-Audiobook/B004FUCGNA) - *Dale Carnegie***
  ╴ **[Spam Nation](https://www.amazon.com/Spam-Nation-Organized-Cybercrimefrom-Epidemic/dp/1501210432) - *Brian Krebs***
  ╴ Feynnman Lectures on Computation - _Richard P. Feynman_
  ╴ [The Mark Inside: A Perfect Swindle, a Cunning Revenge, and a Small History of the Big Con](https://www.amazon.com/Mark-Inside-Perfect-Swindle-Cunning-ebook/dp/B005IQZB3W?ie=UTF8&ref_=k4w_ss_details_rh) - _Amy Reading_
