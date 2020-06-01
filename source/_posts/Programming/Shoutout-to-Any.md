@@ -4,7 +4,6 @@ title: Isolate this post please
 date: 2014-09-08
 comments: true
 tags: [C#, .NET]
-category: Programming
 ---
 
 Blah blah blah.. How do I get this as I want?
