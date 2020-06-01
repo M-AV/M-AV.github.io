@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+
+  
+  <title>Bank Grade Security - Danish bank edition v2 | Hexo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="In need of something better to do, I thought I would see if any of the Danish Banks have improved their SSL&#x2F;TLS since last summer. Back then, we saw that the so called “bank grade”-security was genera">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Bank Grade Security - Danish bank edition v2">
+<meta property="og:url" content="http://yoursite.com/2016/02/03/Bank-Grade-Security-Danish-Edition-v2/index.html">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="In need of something better to do, I thought I would see if any of the Danish Banks have improved their SSL&#x2F;TLS since last summer. Back then, we saw that the so called “bank grade”-security was genera">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2016-02-03T00:00:00.000Z">
+<meta property="article:modified_time" content="2020-06-01T22:56:34.060Z">
+<meta property="article:author" content="John Doe">
+<meta property="article:tag" content="Security">
+<meta property="article:tag" content="SSL">
+<meta name="twitter:card" content="summary">
+  
+    <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 4.2.1"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Hexo</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://yoursite.com"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-Bank-Grade-Security-Danish-Edition-v2" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2016/02/03/Bank-Grade-Security-Danish-Edition-v2/" class="article-date">
+  <time datetime="2016-02-03T00:00:00.000Z" itemprop="datePublished">2016-02-03</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      Bank Grade Security - Danish bank edition v2
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>In need of something better to do, I thought I would see if any of the Danish Banks have improved their SSL/TLS since <a href="!--￼0--">last summer</a>. Back then, we saw that the so called “bank grade”-security was generally not that good (at least in terms of SSL/TLS). The results were pretty much consistent with the rest of the world, which was kinda sad. But now we are in 2016, so let us see how the banks fare today.</p>
+<p>I have tested all the banks I tested last time, as well as the ones [Jamie Magee][JamieM] tested and I did not. </p>
+<table><thead><tr><th style="text-align: center">Bank</th><th style="text-align: center">Grade</th><th style="text-align: center">Supports SSL 3</th><th style="text-align: center">Supports SHA1</th><th style="text-align: center">No TLS 1.2</th><th style="text-align: center">Supports RC4</th><th style="text-align: center">Forward Secrecy</th><th style="text-align: center">POODLE</th></tr></thead><tbody><tr><td style="text-align: center; background-color:green; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=https%3A%2F%2Fjutlander-netbank.dk" target="_blank" rel="noopener" title="SSLLabs - jutlander-netbank.dk">Jutlander Bank</a></td><td style="text-align: center; background-color:green; color:white"><strong>A+</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr><tr><td style="text-align: center; background-color:green; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=al-bank.dk" target="_blank" rel="noopener" title="SSLLabs - al-bank.dk">Arbejdernes Landsbank</a></td><td style="text-align: center; background-color:green; color:white"><strong>A</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr><tr><td style="text-align: center; background-color:green; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=vestjyskbank.dk" target="_blank" rel="noopener" title="SSLLabs - Vestjyskbank.dk">Vestjysk Bank</a></td><td style="text-align: center; background-color:green; color:white"><strong>A</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr><tr><td style="text-align: center; background-color:green; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=mitnykredit.dk" target="_blank" rel="noopener" title="SSLLabs - mitnykredit.dk">Nykredit</a></td><td style="text-align: center; background-color:green; color:white"><strong>A</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass*</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr><tr><td style="text-align: center; background-color:green; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=https%3A%2F%2Fnetbank.sparnord.dk" target="_blank" rel="noopener" title="SSLLabs - netbank.sparnord.dk">Spar Nord</a></td><td style="text-align: center; background-color:green; color:white"><strong>A</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass*</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr><tr><td style="text-align: center; background-color:lawngreen; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=https%3A%2F%2Fwww.danskebank.dk" target="_blank" rel="noopener" title="SSLLabs - www.danskebank.dk">Danske Bank</a></td><td style="text-align: center; background-color:lawngreen; color:white"><strong>A-</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr><tr><td style="text-align: center; background-color:lawngreen; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=portal.bankdata.dk" target="_blank" rel="noopener" title="SSLLabs - portal.bankdata.dk">Finansbanken</a></td><td style="text-align: center; background-color:lawngreen; color:white"><strong>A-</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr><tr><td style="text-align: center; background-color:lawngreen; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=portal.jyskebank.dk" target="_blank" rel="noopener" title="SSLLabs - portal.jyskebank.dk">Jyske Bank</a></td><td style="text-align: center; background-color:lawngreen; color:white"><strong>A-</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr><tr><td style="text-align: center; background-color:lawngreen; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=lsb.dk" target="_blank" rel="noopener" title="SSLLabs - lsb.dk">Lån &amp; Spar Bank</a></td><td style="text-align: center; background-color:lawngreen; color:white"><strong>A-</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr><tr><td style="text-align: center; background-color:lawngreen; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=portal4.nordjyskebank.dk" target="_blank" rel="noopener" title="SSLLabs - portal4.nordjyskebank.dk">Nordjyske Bank</a></td><td style="text-align: center; background-color:lawngreen; color:white"><strong>A-</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr><tr><td style="text-align: center; background-color:lawngreen; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=portal4.sydbank.dk" target="_blank" rel="noopener" title="SSLLabs - portal4.sydbank.dk">Sydbank</a></td><td style="text-align: center; background-color:lawngreen; color:white"><strong>A-</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr><tr><td style="text-align: center; background-color:orange; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=dlr.dk" target="_blank" rel="noopener" title="SSLLabs - www.dlr.dk">DLR Kredit</a></td><td style="text-align: center; background-color:orange; color:white"><strong>C</strong></td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:red; color:white">Fail**</td></tr><tr><td style="text-align: center; background-color:orange; color:white"><a href="https://www.ssllabs.com/ssltest/analyze.html?d=netbank.nordea.dk" target="_blank" rel="noopener" title="SSLLabs - netbank.nordea.dk">Nordea</a></td><td style="text-align: center; background-color:orange; color:white"><strong>C</strong></td><td style="text-align: center; background-color:green; color:white">Pass</td><td style="text-align: center; background-color:green; color:white">Pass*</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:red; color:white">Fail</td><td style="text-align: center; background-color:green; color:white">Pass</td></tr></tbody></table>
+
+<ul>
+<li>*Intermediate certificate still supports SHA1  </li>
+<li>**Only SSLv3 vulnerable to POODLE, not TLS</li>
+</ul>
+<p>Wow. What an improvement. Back in May, only one bank got an A- and it was the only one to get higher than a B. Now only two banks get less than an A- and there even is one getting an A+. Good job to the teams who have taken action to improve their security and kudos to Jutlander Bank for being the only bank in Denmark (I know about) with an A+ rating.</p>
+<!-- Bibliography -->
+
+<p>[JamieM]: <a href="https://jamiemagee.co.uk/2015/05/06/do-you-want-bank-grade-ssl-danish-edition/" target="_blank" rel="noopener">https://jamiemagee.co.uk/2015/05/06/do-you-want-bank-grade-ssl-danish-edition/</a> “Jamie Magee - Do -you really want “bank grade” security in your SSL? Danish edition”<br>[Dutch]: <a href="http://blog.robiii.nl/2015/05/do-you-really-want-bank-grade-security.html" target="_blank" rel="noopener">http://blog.robiii.nl/2015/05/do-you-really-want-bank-grade-security.html</a> “RobIII - Do you really want “bank grade” security in your SSL? Dutch edition”<br>[Lithuanian]: <a href="https://docs.google.com/spreadsheets/d/1ggl-WkbnI3-zd3Rs4SkPIQnUt1I4Vg4vhRL_FQwC7us/edit#gid=0" target="_blank" rel="noopener">https://docs.google.com/spreadsheets/d/1ggl-WkbnI3-zd3Rs4SkPIQnUt1I4Vg4vhRL_FQwC7us/edit#gid=0</a> “Banks in Lithuania”<br>[BrutalDev]: <a href="https://brutaldev.com/post/bank-grade-security---south-african-bank-edition" target="_blank" rel="noopener">https://brutaldev.com/post/bank-grade-security---south-african-bank-edition</a> “Brutal Developer - Bank Grade Security - South African bank edition”<br>[SimonOnline]: <a href="http://blog.simontimms.com/2015/05/09/do-you-really-want-bank-grade-security-in-your-ssl/" target="_blank" rel="noopener">http://blog.simontimms.com/2015/05/09/do-you-really-want-bank-grade-security-in-your-ssl/</a> “Simon Online - Do you really want “bank grade” security in your SSL? Canadian edition”<br>[IsraeliTweet]: <a href="https://twitter.com/omervk/status/598957807862292482" target="_blank" rel="noopener">https://twitter.com/omervk/status/598957807862292482</a> “Twitter - Omer van Kloeten: On the heels of..”</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2016/02/03/Bank-Grade-Security-Danish-Edition-v2/" data-id="ckax3ekln000i4fty0j0cbqeg" class="article-share-link">Share</a>
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/SSL/" rel="tag">SSL</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Security/" rel="tag">Security</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2020/06/01/hello-world/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          Hello World
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2015/05/06/Bank-Grade-Security-Danish-Edition/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">Bank Grade Security - Danish bank edition</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/C/">C#</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/Programming/">Programming</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tags</h3>
+    <div class="widget">
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/NET/" rel="tag">.NET</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/C/" rel="tag">C#</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/SSL/" rel="tag">SSL</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Security/" rel="tag">Security</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/NET/" style="font-size: 10px;">.NET</a> <a href="/tags/C/" style="font-size: 20px;">C#</a> <a href="/tags/SSL/" style="font-size: 20px;">SSL</a> <a href="/tags/Security/" style="font-size: 20px;">Security</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/06/">June 2020</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/02/">February 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/05/">May 2015</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/02/">February 2015</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/10/">October 2014</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/09/">September 2014</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2020/06/01/hello-world/">Hello World</a>
+          </li>
+        
+          <li>
+            <a href="/2016/02/03/Bank-Grade-Security-Danish-Edition-v2/">Bank Grade Security - Danish bank edition v2</a>
+          </li>
+        
+          <li>
+            <a href="/2015/05/06/Bank-Grade-Security-Danish-Edition/">Bank Grade Security - Danish bank edition</a>
+          </li>
+        
+          <li>
+            <a href="/2015/02/07/Csharp-Language-Weirdness/">C# Language Weirdness</a>
+          </li>
+        
+          <li>
+            <a href="/2014/10/29/Kill-the-bug-not-the-symptom/">Kill the bug! Don&#39;t hide it</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2020 John Doe<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+
+  
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+  </div>
+</body>
+</html>

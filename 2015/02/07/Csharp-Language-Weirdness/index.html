@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+
+  
+  <title>C# Language Weirdness | Hexo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="When using and learning about a programming language you are bound to, at some point, learn about some oddities in the programming language. Recently, I (once again) stumbled across the What’s the str">
+<meta property="og:type" content="article">
+<meta property="og:title" content="C# Language Weirdness">
+<meta property="og:url" content="http://yoursite.com/2015/02/07/Csharp-Language-Weirdness/index.html">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="When using and learning about a programming language you are bound to, at some point, learn about some oddities in the programming language. Recently, I (once again) stumbled across the What’s the str">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2015-02-07T00:00:00.000Z">
+<meta property="article:modified_time" content="2020-06-01T22:56:34.060Z">
+<meta property="article:author" content="John Doe">
+<meta property="article:tag" content="C#">
+<meta name="twitter:card" content="summary">
+  
+    <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 4.2.1"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Hexo</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://yoursite.com"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-Csharp-Language-Weirdness" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2015/02/07/Csharp-Language-Weirdness/" class="article-date">
+  <time datetime="2015-02-07T00:00:00.000Z" itemprop="datePublished">2015-02-07</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/C/">C#</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      C# Language Weirdness
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>When using and learning about a programming language you are bound to, at some point, learn about some oddities in the programming language. Recently, I (once again) stumbled across the <em><a href="http://stackoverflow.com/q/194484/1401257" target="_blank" rel="noopener" title="What&#39;s the strangest corner case you&#39;ve seen in C# or .NET?">What’s the strangest corner case you’ve seen in C# or .NET?</a></em> question on <a href="http://stackoverflow.com" target="_blank" rel="noopener" title="StackOverflow">StackOverflow</a> and I thought I would compile a list of some, of what I consider to be, surprising “features” of the C# <em>language</em>.</p>
+<p>So here goes (in no particular order).</p>
+<h2 id="1-Comparison-of-nullable-types"><a href="#1-Comparison-of-nullable-types" class="headerlink" title="1. Comparison of nullable types"></a>1. Comparison of nullable types</h2><p>We all know about C#’s <a href="https://msdn.microsoft.com/en-us/library/1t3y8s4s.aspx" target="_blank" rel="noopener" title="Nullable Types (C# Programming Guide)">Nullable Value Types</a>, but what happens when we compare them? </p>
+<figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">int</span>? nonNull = <span class="number">1</span>, isNull = <span class="literal">null</span>;</span><br><span class="line"></span><br><span class="line">nonNull == isNull   <span class="comment">// False - Makes sense</span></span><br><span class="line">isNull == <span class="literal">null</span>      <span class="comment">// True - Makes sense</span></span><br><span class="line">nonNull == nonNull  <span class="comment">// True - Makes sense</span></span><br><span class="line">isNull &lt; <span class="literal">null</span>       <span class="comment">// False - Makes sense</span></span><br><span class="line">isNull &lt;= <span class="literal">null</span>      <span class="comment">// False - Make.. Wait what? </span></span><br><span class="line">isNull &lt;= isNull    <span class="comment">// False - ...</span></span><br></pre></td></tr></table></figure>
+
+<p>For some (unknown to me) reason, comparing two nullable value types (whose value is null) with <code>&lt;=</code> evaluate to false. It is false even though comparing with <code>==</code> evaluate to true. </p>
+<p>So apparently, a null nullable value type is <em>equal</em> to null, but it is not <em>below or equal</em> to null. </p>
+<h2 id="2-Enums-and-method-overloading"><a href="#2-Enums-and-method-overloading" class="headerlink" title="2. Enums and method overloading"></a>2. Enums and method overloading</h2><p>Let’s assume we have this enum and these methods</p>
+<figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">enum</span> SomeEnum &#123; One = <span class="number">1</span> &#125;;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">string</span> <span class="title">MyMethod</span>(<span class="params">SomeEnum myEnum</span>)</span> &#123; <span class="keyword">return</span> <span class="string">"ENUM"</span>; &#125;</span><br><span class="line"><span class="function"><span class="keyword">string</span> <span class="title">MyMethod</span>(<span class="params"><span class="keyword">object</span> myObject</span>)</span> &#123; <span class="keyword">return</span> <span class="string">"OBJECT"</span>; &#125;</span><br></pre></td></tr></table></figure>
+<p>And then we call those methods a few times and look at the response</p>
+<figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">MyMethod(SomeEnum.One)        <span class="comment">// "ENUM" - Obviously.</span></span><br><span class="line">MyMethod(<span class="string">"Some string"</span>)       <span class="comment">// "OBJECT" - Obviously.</span></span><br><span class="line">MyMethod(<span class="number">0</span>)                   <span class="comment">// "ENUM" - Okay..</span></span><br><span class="line">MyMethod(Convert.ToInt32(<span class="number">0</span>))  <span class="comment">// "OBJECT" - Ehm..</span></span><br><span class="line">MyMethod(<span class="number">1</span>)                   <span class="comment">// "OBJECT" - What?</span></span><br></pre></td></tr></table></figure>
+
+<p>What is the significance of 0 vs 1? </p>
+<p>The default value of an enum is the default value of its underlying type (in this case an integer), which is 0. In fact, since an enum’s underlying type can only be integral types (except char), the default value for all enums is 0. Because of the way this is handled, 0 (as the only value) can be implicitly converted to any enum, which is why 0 and 1 does not call the same overload.<br>The reason why <code>Convert.ToInt32(0)</code> also calls the <code>object</code> overload is because <a href="https://msdn.microsoft.com/en-us/library/aa691336%28v=vs.71%29.aspx" target="_blank" rel="noopener" title="7.4.2 Overload resolution">overload resolution</a> happens at compile time, but the value returned from <code>Convert.ToInt32(0)</code> is not known by the compiler.</p>
+<h2 id="3-Default-parameter-values-and-overloading"><a href="#3-Default-parameter-values-and-overloading" class="headerlink" title="3. Default parameter values and overloading"></a>3. Default parameter values and overloading</h2><p>This time we have the following classes:</p>
+<figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title">Base</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">virtual</span> <span class="keyword">string</span> <span class="title">MyMethod</span>(<span class="params"><span class="keyword">int</span> i = <span class="number">1</span></span>)</span></span><br><span class="line"><span class="function"></span>    &#123;</span><br><span class="line">        <span class="keyword">return</span> i + <span class="string">" Base"</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">class</span> <span class="title">Derived</span> : <span class="title">Base</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">override</span> <span class="keyword">string</span> <span class="title">MyMethod</span>(<span class="params"><span class="keyword">int</span> i = <span class="number">2</span></span>)</span></span><br><span class="line"><span class="function"></span>    &#123;</span><br><span class="line">        <span class="keyword">return</span> i + <span class="string">" Derived"</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>What is the result of the following invocation of <code>MyMethod</code>?</p>
+<figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Base b = <span class="keyword">new</span> Derived();</span><br><span class="line">b.MyMethod();  <span class="comment">// ??</span></span><br></pre></td></tr></table></figure>
+
+<p>There are two obvious possibilities: *”1 Base”* and *”2 Derived”<em>. Anyone who knows about method overriding in C#, will probably quickly figure out that it is the <code>MyMethod</code> from <code>Derived</code> that is being called. This might cause many people to think that the result will be *”2 Derived”</em>.<br>Would you be surprised if I tell you that the result is *”1 Derived”*? The default value from the base class method is being used, even though it is the subclass’s method that is being called.</p>
+<p>Once again, it is a compile time vs run-time issue. Default parameter values are resolved at compile time while method override resolution is handled at run-time. </p>
+<br />
+That was a few cases that surprised me a bit when I learned about them. I might add more at some point. Until then, if you are interested, you can probably find more C# weirdness through Google. 
+
+<!-- Bibliography -->
+
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2015/02/07/Csharp-Language-Weirdness/" data-id="ckax3ekkq00024ftyeheq62rq" class="article-share-link">Share</a>
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/C/" rel="tag">C#</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2015/05/06/Bank-Grade-Security-Danish-Edition/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          Bank Grade Security - Danish bank edition
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2014/10/29/Kill-the-bug-not-the-symptom/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">Kill the bug! Don&#39;t hide it</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/C/">C#</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/Programming/">Programming</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tags</h3>
+    <div class="widget">
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/NET/" rel="tag">.NET</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/C/" rel="tag">C#</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/SSL/" rel="tag">SSL</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Security/" rel="tag">Security</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/NET/" style="font-size: 10px;">.NET</a> <a href="/tags/C/" style="font-size: 20px;">C#</a> <a href="/tags/SSL/" style="font-size: 20px;">SSL</a> <a href="/tags/Security/" style="font-size: 20px;">Security</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/06/">June 2020</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/02/">February 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/05/">May 2015</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/02/">February 2015</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/10/">October 2014</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/09/">September 2014</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2020/06/01/hello-world/">Hello World</a>
+          </li>
+        
+          <li>
+            <a href="/2016/02/03/Bank-Grade-Security-Danish-Edition-v2/">Bank Grade Security - Danish bank edition v2</a>
+          </li>
+        
+          <li>
+            <a href="/2015/05/06/Bank-Grade-Security-Danish-Edition/">Bank Grade Security - Danish bank edition</a>
+          </li>
+        
+          <li>
+            <a href="/2015/02/07/Csharp-Language-Weirdness/">C# Language Weirdness</a>
+          </li>
+        
+          <li>
+            <a href="/2014/10/29/Kill-the-bug-not-the-symptom/">Kill the bug! Don&#39;t hide it</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2020 John Doe<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+
+  
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+  </div>
+</body>
+</html>
