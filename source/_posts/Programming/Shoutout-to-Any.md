@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Isolate this post please
 date: 2014-09-08
 comments: true
