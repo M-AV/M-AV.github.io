@@ -1,0 +1,15 @@
+
+
+<section class="main">
+    <%- partial('_partial/article-full', {item: page}) %>
+</section>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <% site.categories.findOne({name: page.title}).posts.sort('date', -1).each(function(item) {%>
+                <%- partial('_partial/article-index', {item: item}) %>
+            <% })%>
+        </div>
+    </div>
+</div>

@@ -19,7 +19,7 @@
                         <% if(item.author) { %>
                             Posted by <%- item.author %> on
                         <% } %>
-                        <% if(item.date) { %>
+                        <% if(item.date && item.layout != 'overview' && item.layout != 'cocktail_overview') { %>
                             <%= item.date.format(config.date_format) %>
                         <% } %>
                     </span>

@@ -17,27 +17,17 @@
 <!-- Main Content -->
 <div class="container">
     <div class="row">
-        <div class="col-sm-4">
-            <% page.posts.each(function(item){ %>
-                <%- partial('_partial/article-index', {item: item}) %>
-            <% }); %>
-
-            <%- partial('_partial/pagination') %>
+        <div class="col-sm-6">
+            <a href="<%- config.root %>Programming">
+                <h1>Programming</h1>
+            </a>
         </div>
-        <div class="col-sm-4">
-            <% site.categories.findOne({name: "Programming"}).posts.sort('title', 1).each(function(item) {%>
-                <%- partial('_partial/article-index', {item: item}) %>
-            <% })%>
-
-            <%- partial('_partial/pagination') %>
+        <div class="col-sm-6">
+            <a href="<%- config.root %>Cocktails">
+                <H1>Cocktails</H1>
+            </a>
         </div>
-        <div class="col-sm-4">
-            <% site.categories.findOne({name: "C#"}).posts.sort('title', 1).each(function(item) {%>
-                <%- partial('_partial/article-index', {item: item}) %>
-            <% })%>
 
-            <%- partial('_partial/pagination') %>
-        </div>
     </div>
 </div>
 

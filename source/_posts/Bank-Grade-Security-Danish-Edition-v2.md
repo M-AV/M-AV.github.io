@@ -4,7 +4,7 @@ title: Bank Grade Security - Danish bank edition v2
 date: 2016-02-03
 comments: true
 tags: [Security, SSL]
-category: 
+category: Programming
 ---
 
 In need of something better to do, I thought I would see if any of the Danish Banks have improved their SSL/TLS since [last summer]({% post_url 2015-05-06-Bank-Grade-Security-Danish-Edition%}). Back then, we saw that the so called "bank grade"-security was generally not that good (at least in terms of SSL/TLS). The results were pretty much consistent with the rest of the world, which was kinda sad. But now we are in 2016, so let us see how the banks fare today.

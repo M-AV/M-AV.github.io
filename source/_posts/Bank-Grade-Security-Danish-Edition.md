@@ -4,7 +4,7 @@ title: Bank Grade Security - Danish bank edition
 date: 2015-05-06
 comments: true
 tags: [Security, SSL]
-category: 
+category: Programming
 ---
 
 A few days ago, Troy Hunt published a [blog post][TroyHunt] about various banks and their SSL. Using SSL Labs' [SSL Server Test][SSLLabs], he scanned a bunch of Australian banks' websites and summarized the results. Interestingly, very few banks achieved "all green". Most banks lack support for Forward Secrecy and many also still support the RC4 cipher suite. A few were even vulnerable to the [POODLE][WikiPoodle] vulnerability. These results made me curious about how the Danish banks compare. 

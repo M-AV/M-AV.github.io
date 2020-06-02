@@ -1,0 +1,12 @@
+<tr>
+    <td class="">
+        <a href="<%- config.root %><%- item.path %>">
+            <h4 class="post-title">
+                <%- item.title || theme.default_post_title || "Untitled" %>
+            </h4>
+        </a>
+    </td>
+    <td> <%- item.description || "" %> </td>
+    <td> <%- item.comment || "" %> </td>
+    <td> <%- item.rating || "N/A" %> </td>
+</tr>
