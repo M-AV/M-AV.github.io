@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Head tag -->
+<head>
+
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <!--Description-->
+
+    
+
+    
+        <meta name="description" content="When using and learning about a programming language you are bound to, at some point, learn about some oddities in the programming language. Recently,"/>
+    
+
+    <!--Author-->
+    
+        <meta name="author" content="Mikkel V"/>
+    
+
+    <!--Open Graph Title-->
+    
+        <meta property="og:title" content="C# Language Weirdness"/>
+    
+
+    <!--Open Graph Description-->
+    
+        <meta property="og:description" content="When using and learning about a programming language you are bound to, at some point, learn about some oddities in the programming language. Recently,"/>
+    
+
+    <!--Open Graph Site Name-->
+        <meta property="og:site_name" content="Is this a blog?"/>
+
+    <!--Type page-->
+    
+        <meta property="og:type" content="article"/>
+    
+
+    <!--Page Cover-->
+    
+    
+
+        <meta name="twitter:card" content="summary_large_image"/>
+
+    
+
+    
+
+    <!-- Title -->
+    
+    <title>C# Language Weirdness - Is this a blog?</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet"/>
+
+    <!-- Custom CSS -->
+    
+<link rel="stylesheet" href="/css/style.css">
+
+
+    <!-- Custom Fonts -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css"/>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css"/>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Gallery -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/featherlight/1.3.5/featherlight.min.css" type="text/css" rel="stylesheet"/>
+
+    <!-- Google Analytics -->
+    
+
+
+    <!-- favicon -->
+    
+
+<meta name="generator" content="Hexo 4.2.1"></head>
+
+
+<body>
+
+    <!-- Menu -->
+    <!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Is this a blog?</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                
+                    <li>
+                        <a href="/">
+                            
+                                Home
+                            
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/archives">
+                            
+                                Archives
+                            
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/tags">
+                            
+                                Tags
+                            
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/categories">
+                            
+                                Categories
+                            
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://github.com/M-AV" target="_blank" rel="noopener">
+                            
+                                <i class="fa fa-github fa-stack-2x"></i>
+                            
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+    <!-- Main Content -->
+    <!-- Page Header -->
+<!-- Set your background image for this header in your post front-matter: cover -->
+
+<header class="intro-header" style="background-image: url('')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>C# Language Weirdness</h1>
+                    
+                    <span class="meta">
+                        <!-- Date and Author -->
+                        
+                        
+                            2015-02-07
+                        
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+
+            <!-- Tags and categories -->
+           
+                <div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1 post-tags">
+                    
+                        
+
+
+<a href="/tags/C/">#C#</a>
+
+
+                    
+                </div>
+                <div class="col-lg-4 col-md-5 post-categories">
+                    
+                        
+
+<a href="/categories/C/">C#</a>
+
+                    
+                </div>
+            
+
+            <!-- Gallery -->
+            
+
+            <!-- Post Main Content -->
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <p>When using and learning about a programming language you are bound to, at some point, learn about some oddities in the programming language. Recently, I (once again) stumbled across the <em><a href="http://stackoverflow.com/q/194484/1401257" target="_blank" rel="noopener" title="What&#39;s the strangest corner case you&#39;ve seen in C# or .NET?">What’s the strangest corner case you’ve seen in C# or .NET?</a></em> question on <a href="http://stackoverflow.com" target="_blank" rel="noopener" title="StackOverflow">StackOverflow</a> and I thought I would compile a list of some, of what I consider to be, surprising “features” of the C# <em>language</em>.</p>
+<p>So here goes (in no particular order).</p>
+<h2 id="1-Comparison-of-nullable-types"><a href="#1-Comparison-of-nullable-types" class="headerlink" title="1. Comparison of nullable types"></a>1. Comparison of nullable types</h2><p>We all know about C#’s <a href="https://msdn.microsoft.com/en-us/library/1t3y8s4s.aspx" target="_blank" rel="noopener" title="Nullable Types (C# Programming Guide)">Nullable Value Types</a>, but what happens when we compare them? </p>
+<figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">int</span>? nonNull = <span class="number">1</span>, isNull = <span class="literal">null</span>;</span><br><span class="line"></span><br><span class="line">nonNull == isNull   <span class="comment">// False - Makes sense</span></span><br><span class="line">isNull == <span class="literal">null</span>      <span class="comment">// True - Makes sense</span></span><br><span class="line">nonNull == nonNull  <span class="comment">// True - Makes sense</span></span><br><span class="line">isNull &lt; <span class="literal">null</span>       <span class="comment">// False - Makes sense</span></span><br><span class="line">isNull &lt;= <span class="literal">null</span>      <span class="comment">// False - Make.. Wait what? </span></span><br><span class="line">isNull &lt;= isNull    <span class="comment">// False - ...</span></span><br></pre></td></tr></table></figure>
+
+<p>For some (unknown to me) reason, comparing two nullable value types (whose value is null) with <code>&lt;=</code> evaluate to false. It is false even though comparing with <code>==</code> evaluate to true. </p>
+<p>So apparently, a null nullable value type is <em>equal</em> to null, but it is not <em>below or equal</em> to null. </p>
+<h2 id="2-Enums-and-method-overloading"><a href="#2-Enums-and-method-overloading" class="headerlink" title="2. Enums and method overloading"></a>2. Enums and method overloading</h2><p>Let’s assume we have this enum and these methods</p>
+<figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">enum</span> SomeEnum &#123; One = <span class="number">1</span> &#125;;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">string</span> <span class="title">MyMethod</span>(<span class="params">SomeEnum myEnum</span>)</span> &#123; <span class="keyword">return</span> <span class="string">"ENUM"</span>; &#125;</span><br><span class="line"><span class="function"><span class="keyword">string</span> <span class="title">MyMethod</span>(<span class="params"><span class="keyword">object</span> myObject</span>)</span> &#123; <span class="keyword">return</span> <span class="string">"OBJECT"</span>; &#125;</span><br></pre></td></tr></table></figure>
+<p>And then we call those methods a few times and look at the response</p>
+<figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">MyMethod(SomeEnum.One)        <span class="comment">// "ENUM" - Obviously.</span></span><br><span class="line">MyMethod(<span class="string">"Some string"</span>)       <span class="comment">// "OBJECT" - Obviously.</span></span><br><span class="line">MyMethod(<span class="number">0</span>)                   <span class="comment">// "ENUM" - Okay..</span></span><br><span class="line">MyMethod(Convert.ToInt32(<span class="number">0</span>))  <span class="comment">// "OBJECT" - Ehm..</span></span><br><span class="line">MyMethod(<span class="number">1</span>)                   <span class="comment">// "OBJECT" - What?</span></span><br></pre></td></tr></table></figure>
+
+<p>What is the significance of 0 vs 1? </p>
+<p>The default value of an enum is the default value of its underlying type (in this case an integer), which is 0. In fact, since an enum’s underlying type can only be integral types (except char), the default value for all enums is 0. Because of the way this is handled, 0 (as the only value) can be implicitly converted to any enum, which is why 0 and 1 does not call the same overload.<br>The reason why <code>Convert.ToInt32(0)</code> also calls the <code>object</code> overload is because <a href="https://msdn.microsoft.com/en-us/library/aa691336%28v=vs.71%29.aspx" target="_blank" rel="noopener" title="7.4.2 Overload resolution">overload resolution</a> happens at compile time, but the value returned from <code>Convert.ToInt32(0)</code> is not known by the compiler.</p>
+<h2 id="3-Default-parameter-values-and-overloading"><a href="#3-Default-parameter-values-and-overloading" class="headerlink" title="3. Default parameter values and overloading"></a>3. Default parameter values and overloading</h2><p>This time we have the following classes:</p>
+<figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title">Base</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">virtual</span> <span class="keyword">string</span> <span class="title">MyMethod</span>(<span class="params"><span class="keyword">int</span> i = <span class="number">1</span></span>)</span></span><br><span class="line"><span class="function"></span>    &#123;</span><br><span class="line">        <span class="keyword">return</span> i + <span class="string">" Base"</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">class</span> <span class="title">Derived</span> : <span class="title">Base</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">override</span> <span class="keyword">string</span> <span class="title">MyMethod</span>(<span class="params"><span class="keyword">int</span> i = <span class="number">2</span></span>)</span></span><br><span class="line"><span class="function"></span>    &#123;</span><br><span class="line">        <span class="keyword">return</span> i + <span class="string">" Derived"</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>What is the result of the following invocation of <code>MyMethod</code>?</p>
+<figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Base b = <span class="keyword">new</span> Derived();</span><br><span class="line">b.MyMethod();  <span class="comment">// ??</span></span><br></pre></td></tr></table></figure>
+
+<p>There are two obvious possibilities: *”1 Base”* and *”2 Derived”<em>. Anyone who knows about method overriding in C#, will probably quickly figure out that it is the <code>MyMethod</code> from <code>Derived</code> that is being called. This might cause many people to think that the result will be *”2 Derived”</em>.<br>Would you be surprised if I tell you that the result is *”1 Derived”*? The default value from the base class method is being used, even though it is the subclass’s method that is being called.</p>
+<p>Once again, it is a compile time vs run-time issue. Default parameter values are resolved at compile time while method override resolution is handled at run-time. </p>
+<br />
+That was a few cases that surprised me a bit when I learned about them. I might add more at some point. Until then, if you are interested, you can probably find more C# weirdness through Google. 
+
+<!-- Bibliography -->
+
+
+
+                
+            </div>
+
+            <!-- Comments -->
+            
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    
+
+
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+    <!-- Footer -->
+    <hr />
+
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    
+
+                    
+
+                    
+                        <li>
+                            <a href="https://github.com/M-AV" target="_blank">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    
+
+                    
+
+                    
+
+                    
+                </ul>
+                <p class="copyright text-muted">&copy; 2020 Mikkel V<br></p>
+                <p class="copyright text-muted">Original Theme <a target="_blank" href="http://startbootstrap.com/template-overviews/clean-blog/">Clean Blog</a> from <a href="http://startbootstrap.com/" target="_blank">Start Bootstrap</a></p>
+                <p class="copyright text-muted">Adapted for <a target="_blank" href="https://hexo.io/">Hexo</a> by <a href="http://www.codeblocq.com/" target="_blank">Jonathan Klughertz</a></p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+    <!-- After footer scripts -->
+    
+<!-- jQuery -->
+<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+
+<!-- Bootstrap -->
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<!-- Gallery -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/featherlight/1.3.5/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+
+<!-- Disqus Comments -->
+
+
+
+</body>
+
+</html>
