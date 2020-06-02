@@ -21,4 +21,4 @@ rating: ✔
 
  Very good and refreshing.
 
- [version1]: IMG_20200430_204048.jpg  
+ [version1]: gin_cucumber_basil_smash_v1.jpg  

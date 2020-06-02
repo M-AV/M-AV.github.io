@@ -17,4 +17,4 @@ Sweet carbonated drink, have a tart aftertaste from the Aperol.
 
   ![Attempt 1][version1]
 
- [version1]: 1st.jpg  
+ [version1]: Aperol_Spritz_V1.jpg  

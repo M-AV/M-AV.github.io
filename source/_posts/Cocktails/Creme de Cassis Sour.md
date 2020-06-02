@@ -17,4 +17,4 @@ Just like an Amaretto Sour, except with Creme de Cassis instead of Amaretto.
     
 ![Version 1][version1]
     
-[version1]: Cassis_Sour_V1.jpg  
+[version1]: Creme_de_Cassis_Sour_V1.jpg  

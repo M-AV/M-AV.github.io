@@ -25,4 +25,4 @@ Source: [Difford's Guide](https://www.diffordsguide.com/cocktails/recipe/2144/be
 
  ![Version 1][version1]
 
- [version1]: v1.jpg  
+ [version1]: Bees_Knees_v1.jpg  

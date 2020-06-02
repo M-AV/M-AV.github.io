@@ -38,4 +38,4 @@ And probably many more
 
 
 
-[silver_gin_fizz_v1]: silver_gin_fizz_v1.bmp
+[silver_gin_fizz_v1]: gin_fizz_silver_v1.bmp

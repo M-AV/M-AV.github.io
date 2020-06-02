@@ -19,4 +19,4 @@ rating: ''
 
  ![Attempt 1][version1]
 
- [version1]: 1st.jpg  
+ [version1]: Hendricks_Cucumber_v1.jpg
