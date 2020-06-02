@@ -1,6 +1,6 @@
 ---
 title: Bocce Ball
-date: 2020-06-02 18:45:07
+date: 2020-06-02
 category: Cocktails
 comment: Basic, but good
 description: Oranges, Amaretto, Vodka

@@ -1,6 +1,6 @@
 ---
 title: Creme de Cassis Sour
-date: 2020-06-02 18:45:07
+date: 2020-06-02
 category: Cocktails
 comment: 
 description: 
