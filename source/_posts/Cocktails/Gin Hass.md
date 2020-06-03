@@ -3,7 +3,7 @@ title: Gin Hass
 date: 2020-06-02
 category: Cocktails
 comment: 
-description: Gin, Mango, Sirup, Soda
+description: Gin, Mango, Soda
 rating: ✔
 ---
 
