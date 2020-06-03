@@ -9,10 +9,10 @@ rating: ✔
 
 Source: https://drinky.dk/products/gin-hass (and similar sites)
 
- - 4  cl Gin (Gordon's London Dry Gin)
+ - 4  cl Gin
  - 10 cl Lemon Soda
  - 4  cl Monin Mango Sirup
  - ½ Lime
 
-Gin i glas med isterninger. Derefter Lemon Soda. Toppes med Mango sirup. Tilsæt saften fra limebådene og evt smid dem i som Garnish
-
+   
+All ingredients mixed in glass with icecubes. The syrup can be difficult to mix from the start. Can be stirred with the straw. 
