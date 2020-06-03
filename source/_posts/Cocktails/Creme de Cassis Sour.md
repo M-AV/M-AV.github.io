@@ -5,6 +5,7 @@ category: Cocktails
 comment: 
 description: 
 rating: ''
+image: Creme_de_Cassis_Sour_V1.jpg 
 ---
 
 Just like an Amaretto Sour, except with Creme de Cassis instead of Amaretto.

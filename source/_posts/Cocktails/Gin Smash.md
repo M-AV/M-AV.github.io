@@ -5,6 +5,7 @@ category: Cocktails
 comment: Try the Basil+Gin+Cucumber
 description: 
 rating: ✔
+image: gin_cucumber_basil_smash_v1.jpg  
 ---
 
 # Basil & Cucummber Smash
@@ -15,6 +16,7 @@ rating: ✔
  - 8-10 Basil Leaves
  - 8-10 Slices of cucumber
  
+    
  Muddle basil and cucumber with syrup in the shaker. Add the rest and shake. Strain into glass. 
  
  ![Version 1][version1]

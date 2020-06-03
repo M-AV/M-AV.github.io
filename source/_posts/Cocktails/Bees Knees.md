@@ -5,6 +5,7 @@ category: Cocktails
 comment: Needs improv.
 description: 
 rating: '?'
+image: Bees_Knees_v1.jpg
 ---
 
 # Bee's Knees ([Supercall](https://www.supercall.com/recipe/bees-knees), Difford's [#1](https://www.diffordsguide.com/cocktails/recipe/195/bees-knees-1), [#2](https://www.diffordsguide.com/cocktails/recipe/196/bees-knees-2) & [#3](https://www.diffordsguide.com/cocktails/recipe/2144/bees-knees-3))

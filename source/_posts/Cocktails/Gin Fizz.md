@@ -5,6 +5,7 @@ category: Cocktails
 comment: 
 description: 
 rating: ''
+image: gin_fizz_silver_v1.bmp
 ---
 
 **Source**: [Diffords Guide](https://www.diffordsguide.com/cocktails/recipe/840/gin-fizz)

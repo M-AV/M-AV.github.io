@@ -5,6 +5,7 @@ category: Cocktails
 comment: Weird aftertaste
 description: Rum, Creme de Menthe
 rating: Meh
+image: Grasshopper_V1.jpg
 ---
 
 **Source**: *Cocktails Håndbog p.104*
