@@ -8,6 +8,8 @@ rating: Meh
 image: Grasshopper_V1.jpg
 ---
 
+<img src="Grasshopper_V1.jpg" width="200px" height="200px" style="float: right;">
+
 **Source**: *Cocktails Håndbog p.104*
 
  - **3 cl** White Rum 
@@ -18,7 +20,5 @@ image: Grasshopper_V1.jpg
  Good idea. I don't like the aftertaste.. Maybe it's the rum?   
  Need more to fill my glass (see attempt 1)
 
-### Attempt 1
-![attempt 1][attempt1]
 
  [attempt1]:Grasshopper_V1.jpg

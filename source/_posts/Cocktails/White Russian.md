@@ -37,6 +37,6 @@ The Amaretto was recommended by someone on Reddit, but didn't really make a diff
 **Idea**:  *Shake 1.5-2cl Amaretto with cream*
 **Idea**:  *Reduce amount of cream (see picture)*
 
-  ![Attempt 1][attempt1]
+<img src="Version_1.jpg" width="200px" height="200px">
 
  [attempt1]: Version_1.jpg

@@ -8,13 +8,7 @@ rating: ''
 image: gin_fizz_silver_v1.bmp
 ---
 
-**Source**: [Diffords Guide](https://www.diffordsguide.com/cocktails/recipe/840/gin-fizz)
-
-Can be made the spirit of your choosing. I usually go with Gin.
-
-## Recipe
-
-- 6 cl Gin
+- 6 cl Gin (Can be made with any spirit)
 - 3 cl Lemon Juice
 - 1.5 cl Sugar Sirup (2 to 1)
 - Top with Soda
@@ -22,7 +16,7 @@ Can be made the spirit of your choosing. I usually go with Gin.
 ## Variants
 There are many variants of the Fizz.
 
-**Silver Fizz**: Add an egg-white when shaking. Creates a nice foam head. With the soda you can easily adjust how 'strong' it should be. I really liked this cocktail.
+**Silver Fizz**: Add an egg-white when shaking. Creates a nice foam head. With the soda you can easily adjust how 'strong' it should be. Very good.
 
  ![Attempt 1][silver_gin_fizz_v1]
 
@@ -36,7 +30,7 @@ There are many variants of the Fizz.
 
 And probably many more
 
-
-
+## Sources & Inspiration
+ - [Diffords Guide](https://www.diffordsguide.com/cocktails/recipe/840/gin-fizz)
 
 [silver_gin_fizz_v1]: gin_fizz_silver_v1.bmp

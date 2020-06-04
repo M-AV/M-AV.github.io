@@ -15,7 +15,6 @@ A variant on the screwdriver
 
 - 6 cl Vodka
 - 2 cl Amaretto
-- 1.5 cl Sugar Sirup (2 to 1)
 - Top with Orange Juice
 - Add a splash of Soda water
 

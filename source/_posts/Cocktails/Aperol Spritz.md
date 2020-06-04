@@ -8,7 +8,7 @@ rating: Meh
 image: Aperol_Spritz_V1.jpg  
 ---
 
-Sweet carbonated drink, have a tart aftertaste from the Aperol.
+<img src="Aperol_Spritz_V1.jpg" width="200px" height="200px" style="float: right;">
 
  - Fill glass with ice
  - 9cl Prosecco
@@ -16,7 +16,6 @@ Sweet carbonated drink, have a tart aftertaste from the Aperol.
  - Top with soda water
  - Garnish with orange peel
 
-  
-  ![Attempt 1][version1]
+Sweet carbonated drink, have a tart aftertaste from the Aperol.
 
  [version1]: Aperol_Spritz_V1.jpg  

@@ -75,7 +75,7 @@ Source: [Difford's Guide](https://www.diffordsguide.com/cocktails/recipe/53/amar
  - **½x** Egg White
  - **1 dash** Angustora Aromatic Bitters (A few more might balance the drink better according to Difford)
 
-**Dry Shake** all ingredients, then shake with ice. Strain.
+ **Process**: Do a Dry Shake or Reverse Dry Shake all ingredients. Strain into glass (with ice depending on the glass).
 
 
 ## Sources & Inspiration
