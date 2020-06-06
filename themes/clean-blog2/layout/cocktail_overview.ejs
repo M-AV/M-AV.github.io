@@ -1,37 +1,44 @@
 <section class="main">
-    <%- partial('_partial/article-full', {item: page}) %>
-</section>
-<div class="container">
-    <div class="row">
-        <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-            <table class="tg">
-                <thead>
-                    <tr>
-                    <th></th>
-                    <th>Name</th>
-                    <th>Description</th>
-                    <th>Comment<br></th>
-                    <th></th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <% site.categories.findOne({name: page.title}).posts.find({rating: '✔'}).sort('title', 1).each(function(item) {%>
-                        <%- partial('_partial/cocktail-table-row', {item: item}) %>
-                    <% })%>
-                    <tr style="outline: thin solid"></tr>
-                    <% site.categories.findOne({name: page.title}).posts.find({rating: ''}).sort('title', 1).each(function(item) {%>
-                        <%- partial('_partial/cocktail-table-row', {item: item}) %>
-                    <% })%>
-                    <tr style="outline: thin solid"></tr>
-                    <% site.categories.findOne({name: page.title}).posts.find({rating: '?'}).sort('title', 1).each(function(item) {%>
-                        <%- partial('_partial/cocktail-table-row', {item: item}) %>
-                    <% })%>
-                    <tr style="outline: thin solid"></tr>
-                    <% site.categories.findOne({name: page.title}).posts.find({rating: 'Meh'}).sort('title', 1).each(function(item) {%>
-                        <%- partial('_partial/cocktail-table-row', {item: item}) %>
-                    <% })%>
-                </tbody>
-            </table>
+    <%- partial('_partial/article-full-start', {item: page}) %>
+
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
+                    <table class="tg">
+                        <thead>
+                            <tr>
+                            <th></th>
+                            <th>Name</th>
+                            <th>Description</th>
+                            <th>Comment<br></th>
+                            <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <% site.categories.findOne({name: page.title}).posts.find({rating: '✔'}).sort('title', 1).each(function(item) {%>
+                                <%- partial('_partial/cocktail-table-row', {item: item}) %>
+                            <% })%>
+                            <tr style="outline: thin solid"></tr>
+                            <% site.categories.findOne({name: page.title}).posts.find({rating: ''}).sort('title', 1).each(function(item) {%>
+                                <%- partial('_partial/cocktail-table-row', {item: item}) %>
+                            <% })%>
+                            <tr style="outline: thin solid"></tr>
+                            <% site.categories.findOne({name: page.title}).posts.find({rating: '?'}).sort('title', 1).each(function(item) {%>
+                                <%- partial('_partial/cocktail-table-row', {item: item}) %>
+                            <% })%>
+                            <tr style="outline: thin solid"></tr>
+                            <% site.categories.findOne({name: page.title}).posts.find({rating: 'Meh'}).sort('title', 1).each(function(item) {%>
+                                <%- partial('_partial/cocktail-table-row', {item: item}) %>
+                            <% })%>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </div>
-    </div>
-</div>
+    </article>
+
+    <hr />
+
+    <%- partial('_partial/article-full-end', {item: page}) %>
+</section>

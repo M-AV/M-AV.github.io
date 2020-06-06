@@ -18,7 +18,7 @@ image: Version_1.jpg
 
 Shake with ice and strain into glass. 
 
-There are other versions using Vermouth. Haven't tried those.
+There are other versions using Vermouth. Haven't tried those. See Liq.Int p.130 and Difford's.
 
 <p style="clear: right; display: block;"></p>
 

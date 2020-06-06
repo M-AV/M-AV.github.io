@@ -14,6 +14,14 @@ image: Bees_Knees_v1.jpg
  - **15 ml** [Honey Syrup](/Cocktails/Sirups.html)
  - **10 ml** Orange Juice
 
+Other recipe
+
+ - 5cl Gin
+ - 3cl Lemon Juice
+ - 2cl Acacia Honey
+ - 1cl Simple Syrup
+ - 1 egg white
+
 <p style="clear: right; display: block;"></p>
 
 ## Attempt 1 & 2 
