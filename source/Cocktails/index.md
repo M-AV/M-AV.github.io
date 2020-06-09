@@ -16,6 +16,8 @@ date: 2020-06-02 18:32:47
     - *White rum, Lime, Simple*
  - [Downhill Racer](https://www.diffordsguide.com/cocktails/recipe/669/downhill-racer)
     - Rum, Amaretto, Pineapple
+ - Fireman's Sour *([Difford's](https://www.diffordsguide.com/cocktails/recipe/2163/firemans-sour), [Steve](https://youtu.be/e70UZjwAmBg?t=459))*
+    - *Light Rum, Grenadine Syrup, Lime*
  - [Floridora](https://youtu.be/c6GV_vRlIIA?t=154)
     - *Syrup, Raspberries, Lime, Gin*
  - Gimlet *(Difford's p.241 (multiple variations), [Barfly](https://youtu.be/c6GV_vRlIIA?t=98), Liquid Intelligence p.130)*
@@ -28,6 +30,7 @@ date: 2020-06-02 18:32:47
     - *White rum, Lime, Grapefruit, Maraschino Liqueur*
  - Honeysuckle (Liq.Int p.130)
     - *White rum, lime, honey syrup*
+ - Hurricane ([Difford's](https://www.diffordsguide.com/cocktails/recipe/993/hurricane), [Steve](https://youtu.be/e70UZjwAmBg?t=214))
  - Last Word ([Difford's](https://www.diffordsguide.com/cocktails/recipe/1133/the-last-word-cocktail), Liquid Intelligence p.130)
     - *Green Chartreuse, Maraschino liqueur, Gin, Lime*
  - Mamie Taylor *(Difford's p.324, [barfly](https://youtu.be/c6GV_vRlIIA?t=498))*
@@ -57,10 +60,9 @@ date: 2020-06-02 18:32:47
 
  ### Other Famous ones
 
- - Negroni
+ - ~Negroni~
  - Sex on the Beach
- - Sazerac
- - Old Fashioned
+ - ~Sazerac~
  - Bloody Mary
  - Margarita
  - Tequila Sunrise *(Difford's p.477)*
