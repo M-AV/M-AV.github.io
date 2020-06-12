@@ -3,7 +3,7 @@ title: Bee's Knees
 date: 2020-06-02
 category: Cocktails
 comment: Needs improv.
-description: 
+description: Gin, Lemon, Honey Sirup
 rating: '?'
 image: Bees_Knees_v1.jpg
 ---

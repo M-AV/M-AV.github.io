@@ -3,7 +3,7 @@ title: Paper Plane
 date: 2020-06-02
 category: Cocktails
 comment: Drinkable, but not for me
-description: 
+description: Aperol, Amaro Nonino, Bourbon, Lemon
 rating: Meh
 image: Version_1.jpg
 ---

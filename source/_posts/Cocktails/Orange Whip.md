@@ -2,8 +2,8 @@
 title: Orange Whip
 date: 2020-06-02
 category: Cocktails
-comment: Needs improv.
-description: Creamy orange taste, weird aftertaste
+comment: Creamy orange taste, weird aftertaste. Needs improv.
+description: Orange, Light Rum, Vodka, Triple Sec, Cream
 rating: '?'
 ---
 

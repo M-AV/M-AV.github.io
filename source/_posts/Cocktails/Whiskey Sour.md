@@ -3,7 +3,7 @@ title: Whiskey Sour
 date: 2020-06-02
 category: Cocktails
 comment: Needs improv.
-description: 
+description: Whiskey, Lemon, Simple
 rating: ✔
 ---
 

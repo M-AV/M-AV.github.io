@@ -4,7 +4,7 @@ date: 2020-06-02
 category: Cocktails
 comment: 
 description: 
-rating: ''
+rating: 'Bourbon, Lemon, Cassis, Simple'
 image: Creme_de_Cassis_Sour_V1.jpg 
 ---
 

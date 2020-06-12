@@ -3,7 +3,7 @@ title: White Lady
 date: 2020-06-+2
 category: Cocktails
 comment: 
-description: 
+description: Gin, Cointreau, Sirup, Lemon
 rating: ''
 image: Version_1.jpg
 ---

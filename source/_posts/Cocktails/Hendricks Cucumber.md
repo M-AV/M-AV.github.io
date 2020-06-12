@@ -3,7 +3,7 @@ title: Hendrick's Cucumber
 date: 2020-06-02
 category: Cocktails
 comment: 
-description: 
+description: Gin, Lemon, Cucumber, Soda
 rating: ''
 image: Hendricks_Cucumber_v1.jpg
 ---
