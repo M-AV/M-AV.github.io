@@ -37,8 +37,6 @@ date: 2020-06-02 18:32:47
     - *Whiskey, Lime, Ginger Beer*
  - Mojito (Difford's)
     - *Rum, Sugar, Lime, Mint*
- - Mudslide
-    - *Equal parts Vodka, Coffee Liqueur, Irish Cream*
  - [Paloma](https://www.diffordsguide.com/cocktails/recipe/1456/paloma)
     - *Tequila, grapefruit, lime*
  - Peppermint Patty ([H2D](https://www.youtube.com/watch?v=7y0814PNpq4), [Cocktail Chemistry](https://www.youtube.com/watch?v=njI5tHKd4v8), [Archer](https://www.youtube.com/watch?v=rouC_AbYcUE))
