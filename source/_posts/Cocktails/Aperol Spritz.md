@@ -3,7 +3,7 @@ title: Aperol Spritz
 date: 2020-06-02
 category: Cocktails
 comment: Not a big fan of Aperol
-description: 
+description: Prosecco, Aperol, Soda
 rating: Meh
 image: Aperol_Spritz_V1.jpg  
 ---
