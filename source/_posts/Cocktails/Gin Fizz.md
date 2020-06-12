@@ -1,5 +1,5 @@
 ---
-title: Gin Fizz
+title: Gin Fizz / Tom Collins
 date: 2020-06-02
 category: Cocktails
 comment: 
@@ -12,6 +12,8 @@ image: gin_fizz_silver_v1.bmp
 - 3 cl Lemon Juice
 - 1.5 cl Sugar Sirup (2 to 1)
 - Top with Soda
+
+What's the difference between a Gin Fizz and Tom Collins you may ask? Well, apparently a Tom Collins is served without ice in a smaller glass. That's about it.
 
 ## Variants
 There are many variants of the Fizz.
