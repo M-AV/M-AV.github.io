@@ -52,8 +52,6 @@ date: 2020-06-02 18:32:47
     - *Gin, Cherry Liqueur, Lemon Juice, Soda*
  - Southside ([Difford's](https://www.diffordsguide.com/cocktails/recipe/2200/southside), Liq.Int p.130)
     - *Gin, Lemon, Simple, Mint leaves*
- - Tom Collins
-    - *Gin, Lemon, Sirup, Soda*
     
 
  ### Other Famous ones
