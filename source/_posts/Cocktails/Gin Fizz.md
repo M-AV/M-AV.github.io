@@ -3,7 +3,7 @@ title: Gin Fizz / Tom Collins
 date: 2020-06-02
 category: Cocktails
 comment: 
-description: 
+description: Gin, Lemon, Sirup, Soda
 rating: ''
 image: gin_fizz_silver_v1.bmp
 ---

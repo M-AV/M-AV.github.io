@@ -1,5 +1,5 @@
 ---
-title: Gin Smash
+title: Gin Basil Smash
 date: 2020-06-02
 category: Cocktails
 comment: Try the Basil+Gin+Cucumber
