@@ -14,8 +14,6 @@ date: 2020-06-02 18:32:47
  - [Cubata Sour](https://www.reddit.com/r/cocktails/comments/b8z1ie/cubata_sour/)
  - Daiquiri (Liq.Int p.130 (2 versions))
     - *White rum, Lime, Simple*
- - [Downhill Racer](https://www.diffordsguide.com/cocktails/recipe/669/downhill-racer)
-    - Rum, Amaretto, Pineapple
  - Fireman's Sour *([Difford's](https://www.diffordsguide.com/cocktails/recipe/2163/firemans-sour), [Steve](https://youtu.be/e70UZjwAmBg?t=459))*
     - *Light Rum, Grenadine Syrup, Lime*
  - [Floridora](https://youtu.be/c6GV_vRlIIA?t=154)
