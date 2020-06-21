@@ -20,6 +20,8 @@ image: V1.jpg
 
 Nicely balanced. It's OK. The Maraschino liqueur has a somewhat weird taste that I'm not quite sure what to think about. 
 
+*IDEA*: Maybe try a bit less Maraschino?
+
 <p style="clear: right; display: block;"></p>
 
  ## Sources & Inspiration
