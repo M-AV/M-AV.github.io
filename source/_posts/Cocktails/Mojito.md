@@ -8,7 +8,7 @@ rating: '✔'
 image: V1.jpg
 ---
 
-<img src="v1.jpg" width="200px" height="200px" style="float: right;">
+<img src="V1.jpg" width="200px" height="200px" style="float: right;">
 
  - **~13** Mint Leaves
  - **6 cl** Light Rum
