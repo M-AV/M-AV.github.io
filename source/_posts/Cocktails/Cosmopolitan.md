@@ -18,7 +18,7 @@ image: V2.jpg
 **Process**: Shake everything with ice and strain into glass
 
 [Difford's](https://www.diffordsguide.com/cocktails/recipe/472/cosmopolitan-cocktail-diffords-recipe) ratio.
-Nicely balanced Cranberry / Citrus drink. You can use normal vodka, but it seems a bit too sweet without it. Might be fixable with a bit more Lime.
+Nicely balanced Cranberry / Citrus drink. You can use normal vodka, but it seems a bit too sweet without it. Might be fixable with a bit more Lime. Difford's mention that he prefer normal vodka when using *Good quality Cranberry juice*. 
 
 *IDEA*: Try out some of the other variants from Difford's, H2D or Liq.Int (p.130)
 
