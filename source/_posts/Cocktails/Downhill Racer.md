@@ -5,10 +5,10 @@ category: Cocktails
 comment: 
 description: Dark Rum, Amaretto, Pineapple
 rating: ✔
-image: V1.jpg
+image: V2.jpg
 ---
 
-<img src="V1.jpg" width="200px" height="200px" style="float: right;">
+<img src="V2.jpg" width="200px" height="200px" style="float: right;">
 
  - **5.25cl** Dark Rum
  - **2.25cl** Amaretto
@@ -16,7 +16,7 @@ image: V1.jpg
  **Process**: Shake everything with ice
  **Garnish**: Pineapple Wedge
 
-Very good. All ingrediences comes through. Easy to drink.
+Very good. All ingredients comes through. Easy to drink. Added a bit more of everything to fill the glass.
 
 <p style="clear: right; display: block;"></p>
 
