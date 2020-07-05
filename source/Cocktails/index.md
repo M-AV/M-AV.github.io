@@ -6,11 +6,8 @@ date: 2020-06-02 18:32:47
 
 ## Coctails to try out at some point
     
- - [Alexander](https://www.diffordsguide.com/cocktails/recipe/35/alexander)
-    - *Gin, White Creme de Cacao, Cream, Egg White*
  - Between the Sheets ([Difford's](https://www.diffordsguide.com/cocktails/recipe/209/between-the-sheets), Liquid Intelligence p.130)
     - *Cognac, White Rum, Curacao, Lemon*
- - Bramble *(Difford's p.136, [Barfly](https://youtu.be/c6GV_vRlIIA?t=232))*
  - [Caipiranha](https://www.diffordsguide.com/cocktails/recipe/354/caipirinha)
     - *Lime, Sugar, Cachaca*
  - [Cantaritos](https://www.diffordsguide.com/cocktails/recipe/3074/cantaritos)
