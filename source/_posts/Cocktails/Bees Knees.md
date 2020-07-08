@@ -2,19 +2,22 @@
 title: Bee's Knees
 date: 2020-06-02
 category: Cocktails
-comment: Needs improv.
-description: Gin, Lemon, Honey Sirup
-rating: '?'
-image: Bees_Knees_v1.jpg
+comment: Delicious honey + orange taste
+description: Gin, Lemon, Orange, Honey Sirup
+rating: '✔'
+image: V3.jpg
 ---
-<img src="Bees_Knees_v1.jpg" width="200px" height="200px" style="float: right;">
+<img src="V3.jpg" width="200px" height="200px" style="float: right;">
 
- - **60 ml**/**40 ml** Dry Gin 
- - **22.5 ml** Lemon Juice
- - **15 ml** [Honey Syrup](/Cocktails/Sirups.html)
- - **10 ml** Orange Juice
+ - **60 ml** Gin 
+ - **30 ml** Lemon Juice
+ - **30 ml** [Honey Syrup](/Cocktails/Sirups.html) 
+ - **15 ml** Orange Juice
+**Process**: Shake everything with ice and strain into glass.
 
-Other recipe
+Delicious. I used a 2:1 honey syrup. You can taste the honey and the orange. Slightly more syrup than most recipes I have seen, but I don't feel it's too sweet.
+
+Other recipe (Needs adjusting):
 
  - 5cl Gin
  - 3cl Lemon Juice
@@ -22,9 +25,25 @@ Other recipe
  - 1cl Simple Syrup
  - 1 egg white
 
+  *IDEA*: Try the other recipe with egg white and see if it's equally good. 
+
+<p style="clear: right; display: block;"></p>
+
+## Attempt 3
+
+<img src="V3.jpg" width="200px" height="200px" style="float: right;">
+
+ - **60 ml** Gin 
+ - **30 ml** Lemon Juice
+ - **30 ml** [Honey Syrup](/Cocktails/Sirups.html)
+ - **15 ml** Orange Juice
+
 <p style="clear: right; display: block;"></p>
 
 ## Attempt 1 & 2 
+
+<img src="Bees_Knees_v1.jpg" width="200px" height="200px" style="float: right;">
+
  - **60 ml**/**40 ml** Dry Gin 
  - **22.5 ml** Lemon Juice
  - **15 ml** [Honey Syrup](/Cocktails/Sirups.html)
