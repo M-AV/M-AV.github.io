@@ -56,8 +56,7 @@ Other recipe (Needs adjusting):
  Tried again with **80 ml** Gin (again a double up) and it was much better. A bit sour. That could be because of the lemons. 
 
  Next time, maybe try to add a bit more syrup to counter the sourness better (or make a sweeter syrup - maybe the honey I used isn't suited for the 64g/100g ratio)
-
-<img src="Bees_Knees_v1.jpg" width="200px" height="200px">
+ 
 
 ## Sources & Inspiration
  - [Supercall](https://www.supercall.com/recipe/bees-knees)
