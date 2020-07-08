@@ -25,7 +25,8 @@ Other recipe (Needs adjusting):
  - 1cl Simple Syrup
  - 1 egg white
 
-  *IDEA*: Try the other recipe with egg white and see if it's equally good. 
+
+*IDEA*: Try the other recipe with egg white and see if it's equally good. 
 
 <p style="clear: right; display: block;"></p>
 
