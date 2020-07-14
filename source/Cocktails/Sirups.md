@@ -35,6 +35,14 @@ Same sweetening power as 1.5x of regular Simple Sirup<sup>1</sup>
 
 Didn't write down the recipe when I made it last time, so haven't actually tried these exact ratios. I guess the sugar should be adjusted depending on the sweetness of the berries.
 
+### Mint Syrup
+
+?
+
+### Pineapple Syrup
+
+? https://drinkinghobby.com/pineapple-syrup-recipe/
+
 
 <hr /> 
 

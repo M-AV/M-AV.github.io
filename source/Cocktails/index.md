@@ -6,6 +6,8 @@ date: 2020-06-02 18:32:47
 
 ## Coctails to try out at some point
     
+ - [Bay Breeze](https://www.thespruceeats.com/bay-breeze-recipe-761000)
+    - *Vodka, Cranberry Juice, Pineapple Juice*
  - Between the Sheets ([Difford's](https://www.diffordsguide.com/cocktails/recipe/209/between-the-sheets), Liquid Intelligence p.130)
     - *Cognac, White Rum, Curacao, Lemon*
  - [Caipiranha](https://www.diffordsguide.com/cocktails/recipe/354/caipirinha)
@@ -19,6 +21,8 @@ date: 2020-06-02 18:32:47
  - Cosmopolitan *(Difford's, [H2D](https://www.youtube.com/watch?v=vKv8cnh2ocU), [Barfly](https://youtu.be/c6GV_vRlIIA?t=30), Liq.Int p.130 (2 versions))*
     - *Vodka, Cranberry juice, Cointreau*
  - [Cubata Sour](https://www.reddit.com/r/cocktails/comments/b8z1ie/cubata_sour/)
+ - [Cranberry Daiquiri](https://www.valdemarsro.dk/cranberry-margaritas/)
+    - *Tequila, Cointreau, Cranberry juice*
  - Daiquiri (Liq.Int p.130 (2 versions))
     - *White rum, Lime, Simple*
  - [Dirty Banana](https://www.diffordsguide.com/cocktails/recipe/649/dirty-banana)

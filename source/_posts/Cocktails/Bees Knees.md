@@ -38,6 +38,7 @@ Other recipe (Needs adjusting):
  - **30 ml** Lemon Juice
  - **30 ml** [Honey Syrup](/Cocktails/Sirups.html)
  - **15 ml** Orange Juice
+ 
 
 <p style="clear: right; display: block;"></p>
 
@@ -56,7 +57,7 @@ Other recipe (Needs adjusting):
  Tried again with **80 ml** Gin (again a double up) and it was much better. A bit sour. That could be because of the lemons. 
 
  Next time, maybe try to add a bit more syrup to counter the sourness better (or make a sweeter syrup - maybe the honey I used isn't suited for the 64g/100g ratio)
- 
+
 
 ## Sources & Inspiration
  - [Supercall](https://www.supercall.com/recipe/bees-knees)
