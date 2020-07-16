@@ -17,9 +17,8 @@ image: V1.jpg
  **Process**: Shake with ice and strain into glass
  **Garnish**: A single mint leave
 
- This is just a Gin sour with mint. It's delicious. This ratio is from Liquid Intelligence (p.133).
+ This is just a Gin sour with mint. It's delicious. This ratio is from Liquid Intelligence.
 
   ## Sources & Inspiration
  
-  - Liquid Intelligence (p. 132)
-  
+  - Liquid Intelligence (p. 133)
