@@ -6,8 +6,6 @@ date: 2020-06-02 18:32:47
 
 ## Coctails to try out at some point
     
- - [Bay Breeze](https://www.thespruceeats.com/bay-breeze-recipe-761000)
-    - *Vodka, Cranberry Juice, Pineapple Juice*
  - Between the Sheets ([Difford's](https://www.diffordsguide.com/cocktails/recipe/209/between-the-sheets), Liquid Intelligence p.130)
     - *Cognac, White Rum, Curacao, Lemon*
  - [Caipiranha](https://www.diffordsguide.com/cocktails/recipe/354/caipirinha)
