@@ -89,8 +89,6 @@ date: 2020-06-02 18:32:47
     - *Gin, Cherry Liqueur, Lemon Juice, Soda*
  - [Slow Screw (all the variants)](https://www.diffordsguide.com/encyclopedia/969/cocktails/slow-screw-family-of-cocktails)
     - All riffs on the Screwdriver & Harvey Wallbanger
- - Southside ([Difford's](https://www.diffordsguide.com/cocktails/recipe/2200/southside), Liq.Int p.130)
-    - *Gin, Lemon, Simple, Mint leaves*
  - [Zombie](https://www.diffordsguide.com/cocktails/recipe/2131/zombie)
     - *Multiple rums, Pineapple + Lime + Pink Grapefruit juice, Falernum Liqueur, Sugar*
 
