@@ -1,5 +1,5 @@
 ---
-title: Midori/Green Lemon Sour
+title: Midori Sour
 date: 2020-07-14
 category: Cocktails
 comment: Okay. Maybe a bit too bubble gummy and sour.
@@ -14,6 +14,8 @@ image: V1.jpg
  - **30 ml** Lime juice
  - **1** Egg white
  **Process**: Shake with ice and strain into glass. 
+
+The Midori is sweet enough for us to not need any sugar. The Midori is kinda bubble gummy in taste.
 
 *IDEA*: I have seen some places recommend using Lemon juice (or mixing it 50/50). Doing that might improve the sour taste.
 
