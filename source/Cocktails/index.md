@@ -68,6 +68,8 @@ date: 2020-06-02 18:32:47
     - *Hot coco, Peppermint Schnapps, Creme de Cacao*
  - Pina Colada
     - *Rum, Pineapple + Lime juice, Syrup*
+ - [Pineapple Daiquiri](https://www.youtube.com/watch?v=9vD_CtZyH_E)
+    - *Dark Rum, Pineapple, Lime, Simple*
  - Piranha
  - Porn Star Martini
     - *Passion Fruit, Vanilla Vodka, Passoa Liqueur, Vanilla Sugar Syrup, Lime, Sparkling Wine*
