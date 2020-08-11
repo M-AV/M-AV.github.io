@@ -8,6 +8,8 @@ date: 2020-06-02 18:32:47
     
  - Between the Sheets ([Difford's](https://www.diffordsguide.com/cocktails/recipe/209/between-the-sheets), Liquid Intelligence p.130)
     - *Cognac, White Rum, Curacao, Lemon*
+ - [Blue Hawaiian](https://www.youtube.com/watch?v=BsK6OyH0WF8) - 
+    - *White Rum / Malibu, Blue Curacao, Coconut Liqueur (unless using Malibu), Pineapple Juice*
  - [Caipiranha](https://www.diffordsguide.com/cocktails/recipe/354/caipirinha)
     - *Lime, Sugar, Cachaca*
  - [Cantaritos](https://www.diffordsguide.com/cocktails/recipe/3074/cantaritos)
@@ -50,6 +52,8 @@ date: 2020-06-02 18:32:47
     - *Dark Rum, Pineapple + Lime juice, Sirup, Bitter Liqueur*
  - Last Word ([Difford's](https://www.diffordsguide.com/cocktails/recipe/1133/the-last-word-cocktail), Liquid Intelligence p.130)
     - *Green Chartreuse, Maraschino liqueur, Gin, Lime*
+ - Lemon Drop ([Difford's](https://www.diffordsguide.com/cocktails/recipe/1143/lemon-drop), [Liquor](https://www.liquor.com/recipes/lemon-drop/), [Valdemarsro](https://www.valdemarsro.dk/lemondrop-cocktail/))
+    - *Vodka, Triple Sec, Lemon, Syrup*
  - [Limoncello Spritz](https://www.diffordsguide.com/cocktails/recipe/4242/limoncello-spritz)
     - *Sparkling Wine, Limoncello, Soda water*
  - Mai Tai
