@@ -10,6 +10,8 @@ date: 2020-06-02 18:32:47
     - *Cognac, White Rum, Curacao, Lemon*
  - [Blue Hawaiian](https://www.youtube.com/watch?v=BsK6OyH0WF8) - 
     - *White Rum / Malibu, Blue Curacao, Coconut Liqueur (unless using Malibu), Pineapple Juice*
+ - [Bushwacker Milkshake](https://www.thespruceeats.com/bushwacker-cocktail-recipe-760503)
+   - *Dark Rum, Kahlua, Brown Creme de Cacao, Cream of Coconut, Milk*
  - [Caipiranha](https://www.diffordsguide.com/cocktails/recipe/354/caipirinha)
     - *Lime, Sugar, Cachaca*
  - [Cantaritos](https://www.diffordsguide.com/cocktails/recipe/3074/cantaritos)
@@ -29,14 +31,20 @@ date: 2020-06-02 18:32:47
     - *Rum, Coffee Liqueur, Banana Liqueur, Cream, Milk, Banana*
  - [Eastern Standard](https://www.diffordsguide.com/cocktails/recipe/4685/eastern-standard-soho-house-tonic)
     - *Cucumber, Mint, Gin, Lime, Sugar*
+ - Filur[Råstoff](https://raastoff.dk/drink/filur/), [Classic](https://shake-it.dk/drink/filur/)
+    - *Råstoff, Orange soda, Lime* OR *Vodka, Orange juice, Red Soda*
  - Fireman's Sour *([Difford's](https://www.diffordsguide.com/cocktails/recipe/2163/firemans-sour), [Steve](https://youtu.be/e70UZjwAmBg?t=459))*
     - *Light Rum, Grenadine Syrup, Lime*
  - [Floridora](https://youtu.be/c6GV_vRlIIA?t=154)
     - *Syrup, Raspberries, Lime, Gin*
  - [French 75 + variants](https://www.diffordsguide.com/encyclopedia/1267/cocktails/french-75-cocktail-recipes-and-history)
     - *Gin, Brandy, Sirup, Champagne and more*
+ - [French Martini](https://www.bbcgoodfood.com/recipes/french-martini) [Diffords](https://www.diffordsguide.com/cocktails/recipe/798/french-martini)
+    - *Vodka, Chambord Liqueur, Pineapple Juice*
  - Gimlet *(Difford's p.241 (multiple variations), [Barfly](https://youtu.be/c6GV_vRlIIA?t=98), Liquid Intelligence p.130)*
     - *Gin, Lime, Simple*
+ - [Gin Rickey](https://www.diffordsguide.com/cocktails/recipe/1676/gin-rickey) - A Collins with Lime instead of Lemon
+    - *Gin, Lime, Sirup, Soda Water*
  - Harvey Wallbanger (*Difford's*)
     - *Vodka, Orange, Galliano, Sirup*
  - Hee Bee Jee Bees (*Difford's p.267*)
@@ -60,9 +68,11 @@ date: 2020-06-02 18:32:47
     - *Rum, Orange Curacao, Lime Juice, Orgeat Syrup, Sugar Cane Syrup*
  - Mamie Taylor *(Difford's p.324, [barfly](https://youtu.be/c6GV_vRlIIA?t=498))*
     - *Whiskey, Lime, Ginger Beer*
+ - [Mary Pickford](https://en.wikipedia.org/wiki/Mary_Pickford_(cocktail))
+    - *White Rum, Pineapple Juice, Grenadine, Maraschino*
  - [Missionary's Downfall](https://www.diffordsguide.com/cocktails/recipe/1334/missionarys-downfall)
     - *Mint, Light Rum, Peachtree Liqueur, Honey, Pineapple + Lime juice*
- - Painkiller
+ - [Painkiller](https://www.thespruceeats.com/painkiller-cocktail-recipe-760473)
     - *Dark rum, Pinapple, Cream of Coconut, Orange Juice*
  - [Paloma](https://www.diffordsguide.com/cocktails/recipe/1456/paloma)
     - *Tequila, grapefruit, lime*
@@ -93,6 +103,8 @@ date: 2020-06-02 18:32:47
     - *Gin, Cherry Liqueur, Lemon Juice, Soda*
  - [Slow Screw (all the variants)](https://www.diffordsguide.com/encyclopedia/969/cocktails/slow-screw-family-of-cocktails)
     - All riffs on the Screwdriver & Harvey Wallbanger
+ - [Strawberry Basil Whiskey Bourbon Cocktail](https://uniquelywomen.net/strawberry-basil-whiskey-bourbon-cocktail/)
+    - *Strawberries, Basil, Simple, Bourbon, Lemon*
  - [Zombie](https://www.diffordsguide.com/cocktails/recipe/2131/zombie)
     - *Multiple rums, Pineapple + Lime + Pink Grapefruit juice, Falernum Liqueur, Sugar*
 
@@ -105,5 +117,9 @@ date: 2020-06-02 18:32:47
  - Bloody Mary
  - Margarita
  - Tequila Sunrise *(Difford's p.477)*
+
+ ## Links & Resources
+
+  - https://www.cocktailchemistrylab.com/calculator
      
       
