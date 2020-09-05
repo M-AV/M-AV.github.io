@@ -70,6 +70,8 @@ date: 2020-06-02 18:32:47
     - *Whiskey, Lime, Ginger Beer*
  - [Mary Pickford](https://en.wikipedia.org/wiki/Mary_Pickford_(cocktail))
     - *White Rum, Pineapple Juice, Grenadine, Maraschino*
+ - [Mint Julep]()
+    - *Bourbon, Sirup, Mint*
  - [Missionary's Downfall](https://www.diffordsguide.com/cocktails/recipe/1334/missionarys-downfall)
     - *Mint, Light Rum, Peachtree Liqueur, Honey, Pineapple + Lime juice*
  - [Painkiller](https://www.thespruceeats.com/painkiller-cocktail-recipe-760473)
