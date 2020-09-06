@@ -95,6 +95,11 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: clean-blog2
 
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname: m-av
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
