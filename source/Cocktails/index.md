@@ -8,6 +8,8 @@ date: 2020-06-02 18:32:47
     
  - Between the Sheets ([Difford's](https://www.diffordsguide.com/cocktails/recipe/209/between-the-sheets), Liquid Intelligence p.130)
     - *Cognac, White Rum, Curacao, Lemon*
+ - [Bloody Mary](https://www.diffordsguide.com/cocktails/recipe/251/bloody-mary-modern-recipe)
+    - *Vodka, Tomato + Lemon Juice, Hot Pepper Sauce, Worcestershire sauce, Pepper, Celery salt*
  - [Blue Hawaiian](https://www.youtube.com/watch?v=BsK6OyH0WF8) - 
     - *White Rum / Malibu, Blue Curacao, Coconut Liqueur (unless using Malibu), Pineapple Juice*
  - [Bushwacker Milkshake](https://www.thespruceeats.com/bushwacker-cocktail-recipe-760503)
@@ -87,8 +89,6 @@ date: 2020-06-02 18:32:47
  - [Pineapple Daiquiri](https://www.youtube.com/watch?v=9vD_CtZyH_E)
     - *Dark Rum, Pineapple, Lime, Simple*
  - Piranha
- - Porn Star Martini
-    - *Passion Fruit, Vanilla Vodka, Passoa Liqueur, Vanilla Sugar Syrup, Lime, Sparkling Wine*
  - Queens Bay Swizzle (Difford's p.412)
     - *Rum, Demerara Syrup, Lime Juice, Mint Leaves*
  - [Ramos Gin Fizz](https://www.diffordsguide.com/cocktails/recipe/1628/ramos-gin-fizz)
@@ -97,6 +97,8 @@ date: 2020-06-02 18:32:47
     - *Vodka, Creme de Cassis, Sugar, Lemon Juice*
  - [San Francisco](https://www.diffordsguide.com/cocktails/recipe/1737/san-francisco)
     - *Vodka, Triple Sec, Banana Liqueur, Orange + Pineapple juice, Grenadine Syrup*
+ - [Sex on the Beach](https://www.diffordsguide.com/cocktails/recipe/4266/sex-on-the-beach)
+    - *Vodka, Cranberry juice, Orange juice, Peach Liqueur, Creme de Cassis*
  - Sharman-Cox Daiquiri (Difford's p.446) 
     - *Rum, Curacao, lime, lemon, sirup, egg white*
  - Sidecar ([Diff](https://www.diffordsguide.com/cocktails/recipe/1773/sidecar-cocktail-diffords-spec)[ord's](https://www.diffordsguide.com/cocktails/recipe/4791/sidecar-classic-spec), Liquid Intelligence p.130)
@@ -107,18 +109,11 @@ date: 2020-06-02 18:32:47
     - All riffs on the Screwdriver & Harvey Wallbanger
  - [Strawberry Basil Whiskey Bourbon Cocktail](https://uniquelywomen.net/strawberry-basil-whiskey-bourbon-cocktail/)
     - *Strawberries, Basil, Simple, Bourbon, Lemon*
+ - Tequila Sunrise *(Difford's p.477)*
+    - *Tequila, Grenadine, Orange Juice*
  - [Zombie](https://www.diffordsguide.com/cocktails/recipe/2131/zombie)
     - *Multiple rums, Pineapple + Lime + Pink Grapefruit juice, Falernum Liqueur, Sugar*
 
-
- ### Other Famous ones
-
- - ~Negroni~
- - Sex on the Beach
- - ~Sazerac~
- - Bloody Mary
- - Margarita
- - Tequila Sunrise *(Difford's p.477)*
 
  ## Links & Resources
 
