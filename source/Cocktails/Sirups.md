@@ -35,6 +35,16 @@ Same sweetening power as 1.5x of regular Simple Sirup<sup>1</sup>
 
 Didn't write down the recipe when I made it last time, so haven't actually tried these exact ratios. I guess the sugar should be adjusted depending on the sweetness of the berries.
 
+
+### Coconut Syrup / Cream of Coconut
+- 400 ml Coconut Milk (1 can)
+- 375 g Sugar
+- Pinch of salt
+**Process**: Stir over heat until sugar is dissolved (color changes from white to partially transparent) 
+
+See [Steve](https://stevethebartender.com.au/diy-cream-of-coconut-coco-lopez-alternative/)
+
+
 ### Mint Syrup
 
 ?
