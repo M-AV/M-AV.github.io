@@ -4,6 +4,10 @@ title: Cocktails
 date: 2020-06-02 18:32:47
 ---
 
+## Other stuff
+
+- [Sirups](/Cocktails/Sirups.html)
+
 ## Coctails to try out at some point
     
  - Between the Sheets ([Difford's](https://www.diffordsguide.com/cocktails/recipe/209/between-the-sheets), Liquid Intelligence p.130)
