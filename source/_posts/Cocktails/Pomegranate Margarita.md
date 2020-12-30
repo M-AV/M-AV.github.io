@@ -8,7 +8,7 @@ rating: '✔'
 image: V1.jpg
 ---
 
-<img src="v1.jpg" width="200px" height="200px" style="float: right;">
+<img src="V1.jpg" width="200px" height="200px" style="float: right;">
 
  - **60 ml** Tequila
  - **30 ml** Pomegranate Juice
