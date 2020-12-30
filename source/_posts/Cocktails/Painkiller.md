@@ -22,7 +22,7 @@ Like most other sours, but with a grenadine twist. Sweet. Easy to drink.
 <p style="clear: right; display: block;"></p>
 
 ## Sources & Inspiration
- - [Difford's](https://www.diffordsguide.com/cocktails/recipe/2163/firemans-sour)
- - [Steve](https://youtu.be/e70UZjwAmBg?t=459)
+ - [thespruceeats](https://www.thespruceeats.com/painkiller-cocktail-recipe-760473)
+ - [Difford's](https://www.diffordsguide.com/cocktails/recipe/1454/painkiller)
 
 [v1]: V1.jpg

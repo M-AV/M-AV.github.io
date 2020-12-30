@@ -74,8 +74,6 @@ date: 2020-06-02 18:32:47
     - *Bourbon, Sirup, Mint*
  - [Missionary's Downfall](https://www.diffordsguide.com/cocktails/recipe/1334/missionarys-downfall)
     - *Mint, Light Rum, Peachtree Liqueur, Honey, Pineapple + Lime juice*
- - [Painkiller](https://www.thespruceeats.com/painkiller-cocktail-recipe-760473)
-    - *Dark rum, Pinapple, Cream of Coconut, Orange Juice*
  - [Paloma](https://www.diffordsguide.com/cocktails/recipe/1456/paloma)
     - *Tequila, grapefruit, lime*
  - [Penicillin](https://www.diffordsguide.com/cocktails/recipe/2539/penicillin-cocktail)
