@@ -35,8 +35,6 @@ date: 2020-06-02 18:32:47
     - *Cucumber, Mint, Gin, Lime, Sugar*
  - Filur[Råstoff](https://raastoff.dk/drink/filur/), [Classic](https://shake-it.dk/drink/filur/)
     - *Råstoff, Orange soda, Lime* OR *Vodka, Orange juice, Red Soda*
- - Fireman's Sour *([Difford's](https://www.diffordsguide.com/cocktails/recipe/2163/firemans-sour), [Steve](https://youtu.be/e70UZjwAmBg?t=459))*
-    - *Light Rum, Grenadine Syrup, Lime*
  - [Floridora](https://youtu.be/c6GV_vRlIIA?t=154)
     - *Syrup, Raspberries, Lime, Gin*
  - [French 75 + variants](https://www.diffordsguide.com/encyclopedia/1267/cocktails/french-75-cocktail-recipes-and-history)

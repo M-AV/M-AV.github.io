@@ -21,4 +21,8 @@ Like most other sours, but with a grenadine twist. Sweet. Easy to drink.
 
 <p style="clear: right; display: block;"></p>
 
+## Sources & Inspiration
+ - [Difford's](https://www.diffordsguide.com/cocktails/recipe/2163/firemans-sour)
+ - [Steve](https://youtu.be/e70UZjwAmBg?t=459)
+
 [v1]: V1.jpg
