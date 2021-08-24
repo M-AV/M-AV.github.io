@@ -10,19 +10,20 @@ image: V1.jpg
 
 <img src="v1.jpg" width="200px" height="200px" style="float: right;">
 
- - 45ml Tequila
- - 30ml Mango Juice
- - 15ml Lime Juice
- - 5 drops Saline Solution
- - 2 dashes Angustura Bitters
+ - 50ml Tequila
+ - 10ml Midori
+ - 22ml Lime Juice
+ - 15ml 3-1 Honey Sirup
+ - 7ml Absinthe
+
+Rinse glass with Absinthe and discard leftovers. Shake remaining ingrediants and serve in Rocks glass over a big ice cube.
 
 Shake and strain
 
 From the 2022 edition of Patron Perfectionist. 
-https://www.diffordsguide.com/event/1182/patron-perfectionist-2022/vote?eid=418
+https://www.diffordsguide.com/event/1182/patron-perfectionist-2022/vote?eid=122
 
-
-Not balanced. Taste of tequila. Added more Mango juice and let it sit for a few minutes. Got better. Ended up as a refreshing mango Margarita (which I assume is the point)
+Very good. Balanced and refreshing. 
 
 <p style="clear: right; display: block;"></p>
 
