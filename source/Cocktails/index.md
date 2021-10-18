@@ -58,8 +58,8 @@ date: 2020-06-02 18:32:47
  - Honeysuckle (Liq.Int p.130)
     - *White rum, lime, honey syrup*
  - Hurricane ([Difford's](https://www.diffordsguide.com/cocktails/recipe/993/hurricane), [Steve](https://youtu.be/e70UZjwAmBg?t=214))
- - [Italian Margarita](https://www.diffordsguide.com/cocktails/recipe/2695/italian-margarita)
-    - *Tequila, Amaretto, Triple Sec, Lime Juice*
+ - Industry Sour
+    - *Fernet Branca, Green Chartreuse, Gum Syrup, Lime*
  - [Jungle Bird](https://www.diffordsguide.com/cocktails/recipe/1082/jungle-bird)
     - *Dark Rum, Pineapple + Lime juice, Sirup, Bitter Liqueur*
  - Last Word ([Difford's](https://www.diffordsguide.com/cocktails/recipe/1133/the-last-word-cocktail), Liquid Intelligence p.130)
