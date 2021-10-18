@@ -7,7 +7,7 @@ description: Amaretto, Bourbon
 rating: ✔
 image: Amaretto_Sour_V1.jpg  
 ---
-<img src="V1.jpg" width="200px" height="200px" style="float: right;">
+<img src="V4.jpg" width="200px" height="200px" style="float: right;">
 
  - **45 ml** Amaretto
  - **22.5 ml / 25-30 ml** Cask Strength Bourbon/80 Proof Bourbon
