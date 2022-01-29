@@ -3,7 +3,7 @@ title: Warrior Bird
 date: 2021-08-01
 category: Cocktails
 comment: 
-description: 
+description: Tequila, Midori, Lime, Honey Sirup, Absinthe
 rating: '✔'
 image: v1.jpg
 ---

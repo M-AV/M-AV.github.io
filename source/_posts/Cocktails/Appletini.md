@@ -3,7 +3,7 @@ title: Appletini
 date: 2021-10-18
 category: Cocktails
 comment: It's ok
-description: Gin
+description: Vodka, Sour Apple Liqueur, Lime, Sirup
 rating: '?'
 image: V1.jpg
 ---
@@ -13,7 +13,7 @@ image: V1.jpg
 - **6 cl** Vodka
 - **3 cl** Sour Apple Liqueur
 - **1.5 cl** Lime Juice
-- **1 cl** Syrup
+- **1 cl** Sirup
 **Process**: Shake with ice and strain into glass.
 
 
