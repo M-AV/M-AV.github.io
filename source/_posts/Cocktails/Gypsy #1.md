@@ -1,8 +1,8 @@
 ---
-title: China Blue Cocktail
+title: Gypsy no. 1
 date: 2022-01-29
 category: Cocktails
-comment: Better than anticipated.. And it's blue
+comment: 
 description: Lychee, Blue Curacao, Grapefruit, Lemon
 rating: ✔
 image: V1.jpg

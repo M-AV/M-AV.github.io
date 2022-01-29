@@ -1,19 +1,19 @@
 ---
-title: China Blue Cocktail
+title: Honeysuckle Daiquiri
 date: 2022-01-29
 category: Cocktails
-comment: Better than anticipated.. And it's blue
-description: Lychee, Blue Curacao, Grapefruit, Lemon
+comment: Delicious honeyflavored daiquiri
+description: 
 rating: ✔
 image: V1.jpg
 ---
 
 <img src="V1.jpg" width="200px" height="200px" style="float: right;">
 
- - **30 ml** Lychee Liqueur
- - **30 ml** Blue Curacao Liqueur
- - **60 ml** Grapefruit Juice
- - **7.5 ml** Lemon Juice
+ - **60 ml** Light Rum
+ - **20 ml** Lemon Juice
+ - **15 ml** Orange Juice
+ - **20 ml** Honey Sirup
 
 **Process**: Shake ingredients with ice, strain into glass. 
 
