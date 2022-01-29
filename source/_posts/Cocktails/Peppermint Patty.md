@@ -15,7 +15,7 @@ image: V1.jpg
  - **15 ml** Dark Creme de Cacao
  - **5 ml** Creme de Menthe
 
-**Process**: Mix in glass or thermice
+**Process**: Mix in glass or thermos
 
 From the animated TV show 'Archer'.
 
