@@ -82,8 +82,6 @@ date: 2020-06-02 18:32:47
     - *Tequila, grapefruit, lime*
  - [Penicillin](https://www.diffordsguide.com/cocktails/recipe/2539/penicillin-cocktail)
     - *Whiskey, Ginger Liqueur, Lemon Juice, Honey*
- - Peppermint Patty ([H2D](https://www.youtube.com/watch?v=7y0814PNpq4), [Cocktail Chemistry](https://www.youtube.com/watch?v=njI5tHKd4v8), [Archer](https://www.youtube.com/watch?v=rouC_AbYcUE))
-    - *Hot coco, Peppermint Schnapps, Creme de Cacao*
  - Pina Colada
     - *Rum, Pineapple + Lime juice, Syrup*
  - [Pineapple Daiquiri](https://www.youtube.com/watch?v=9vD_CtZyH_E)
@@ -99,8 +97,6 @@ date: 2020-06-02 18:32:47
     - *Vodka, Triple Sec, Banana Liqueur, Orange + Pineapple juice, Grenadine Syrup*
  - [Sex on the Beach](https://www.diffordsguide.com/cocktails/recipe/4266/sex-on-the-beach)
     - *Vodka, Cranberry juice, Orange juice, Peach Liqueur, Creme de Cassis*
- - Sharman-Cox Daiquiri (Difford's p.446) 
-    - *Rum, Curacao, lime, lemon, sirup, egg white*
  - Sidecar ([Diff](https://www.diffordsguide.com/cocktails/recipe/1773/sidecar-cocktail-diffords-spec)[ord's](https://www.diffordsguide.com/cocktails/recipe/4791/sidecar-classic-spec), Liquid Intelligence p.130)
     - Cognac, Cointreau, Lemon, Simple
  - Singapore Sling (*Difford's, H2D*)

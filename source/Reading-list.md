@@ -46,8 +46,8 @@ tags:
  ✓ The Tipping Point - _Malcolm Gladwell_
  ✓ You Must be Joking Mr. Feynman - _Richard P. Feynman / Ralph Leighton_
  ✓ How to Win Friends and Influence People - _Dale Carnegie_
- ╴ **[How to Stop Worrying and Start Living](http://www.audible.co.uk/pd/Health-Personal-Development/How-to-Stop-Worrying-and-Start-Living-Audiobook/B004FUCGNA) - *Dale Carnegie***
- ╴ **[Spam Nation](https://www.amazon.com/Spam-Nation-Organized-Cybercrimefrom-Epidemic/dp/1501210432) - *Brian Krebs***
+ ✓ [How to Stop Worrying and Start Living](http://www.audible.co.uk/pd/Health-Personal-Development/How-to-Stop-Worrying-and-Start-Living-Audiobook/B004FUCGNA) - *Dale Carnegie*
+ ✓ [Spam Nation](https://www.amazon.com/Spam-Nation-Organized-Cybercrimefrom-Epidemic/dp/1501210432) - *Brian Krebs*
  ╴ Feynnman Lectures on Computation - _Richard P. Feynman_
  ╴ [The Mark Inside: A Perfect Swindle, a Cunning Revenge, and a Small History of the Big Con](https://www.amazon.com/Mark-Inside-Perfect-Swindle-Cunning-ebook/dp/B005IQZB3W?ie=UTF8&ref_=k4w_ss_details_rh) - _Amy Reading_
  ╴ [The Confidence Game: Why We Fall for It . . . Every Time](https://www.amazon.com/Confidence-Game-Fall-Every-Time-ebook/dp/B00WDP836S?ie=UTF8&dpID=41xRgyXKn0L&dpSrc=sims&preST=_OU01_AC_UL320_SR212%2C320_&refRID=1Q54YRM4XTGYW4T994PB&ref_=pd_sim_351_3) - _Maria Konnikova_

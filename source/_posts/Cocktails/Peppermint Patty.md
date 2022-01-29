@@ -21,3 +21,7 @@ From the animated TV show 'Archer'.
 
 **Comment**: Not sure what the difference is between the Peppermint Schnapps and the Creme de Menthe. The ones I have taste mostly similar, so the "hint of Creme de Menthe" is not really there for me. Can probably make the same drink without it.
 
+## Sources & Inspiration
+ - [Archer TV Show](https://www.youtube.com/watch?v=rouC_AbYcUE)
+ - [H2D](https://www.youtube.com/watch?v=7y0814PNpq4)
+ - [Cocktail Chemistry](https://www.youtube.com/watch?v=njI5tHKd4v8)
