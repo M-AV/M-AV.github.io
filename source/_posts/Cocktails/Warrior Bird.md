@@ -5,7 +5,7 @@ category: Cocktails
 comment: 
 description: 
 rating: '✔'
-image: V1.jpg
+image: v1.jpg
 ---
 
 <img src="v1.jpg" width="200px" height="200px" style="float: right;">
