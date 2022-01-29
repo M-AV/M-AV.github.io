@@ -4,7 +4,7 @@ date: 2022-01-29
 category: Cocktails
 comment: Looks cool, but is quite disgusting
 description: 
-rating: ✔
+rating: Meh
 image: V1.jpg
 ---
 
